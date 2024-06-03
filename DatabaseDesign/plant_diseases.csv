@@ -1,0 +1,1001 @@
+plant_disease_name,causes,recommendations,predicted_score,uploaded_image_path,uploaded_time,detected_time
+Melon Necrotic Spot Virus,Fungal Infection,Adjust watering schedule,0.54,/user/user/document/image_542.jpg,2023-02-24 18:11:21,2024-05-14 00:55:27
+Onion Downy Mildew,Nutrient Deficiency,Use fungicide,0.97,/user/user/document/image_356.jpg,2024-02-02 19:17:35,2022-10-11 01:28:10
+Bean Common Mosaic Virus,Bacterial Infection,Improve soil drainage,0.94,/user/user/document/image_101.jpg,2023-02-14 00:48:02,2022-03-02 03:12:40
+Root Knot Nematode,Nutrient Deficiency,Provide adequate nutrition,0.9,/user/user/document/image_5.jpg,2024-03-08 05:12:44,2023-12-17 21:17:07
+Canker,Fungal Infection,Control pests,0.7,/user/user/document/image_299.jpg,2023-02-23 04:10:57,2022-12-19 01:19:19
+Clubroot,Nutrient Deficiency,Use resistant varieties,0.77,/user/user/document/image_599.jpg,2022-01-19 08:25:15,2023-04-28 06:07:59
+Brown Patch,Poor Drainage,Use resistant varieties,0.98,/user/user/document/image_196.jpg,2022-10-29 12:16:37,2022-03-07 10:04:35
+Crown Gall,Environmental Stress,Remove infected leaves,0.81,/user/user/document/image_249.jpg,2024-04-18 15:49:02,2024-05-13 05:00:45
+Hydrangea Rust,Chemical Damage,Control pests,0.51,/user/user/document/image_225.jpg,2023-07-07 02:38:46,2022-09-19 05:36:42
+Black Heart,Viral Infection,Remove infected leaves,0.64,/user/user/document/image_808.jpg,2022-03-22 00:19:53,2023-05-29 09:05:20
+Ascochyta Blight,Pests,Provide adequate nutrition,0.81,/user/user/document/image_726.jpg,2022-04-20 03:27:08,2023-04-08 13:54:30
+Pythium Root Rot,Pests,Improve soil drainage,0.84,/user/user/document/image_301.jpg,2023-10-28 00:14:35,2022-06-13 09:30:41
+Halo Blight,Environmental Stress,Improve soil drainage,0.61,/user/user/document/image_124.jpg,2023-10-06 13:07:42,2022-09-16 22:35:40
+Mosaic Virus,Viral Infection,Use fungicide,0.67,/user/user/document/image_614.jpg,2023-01-11 02:19:19,2024-03-19 13:51:05
+Sooty Mold,Fungal Infection,Apply bactericide,0.97,/user/user/document/image_545.jpg,2022-03-16 16:37:24,2022-03-26 18:14:46
+Leaf Rust,Chemical Damage,Remove infected leaves,0.63,/user/user/document/image_157.jpg,2022-06-09 07:07:14,2022-01-06 10:18:20
+Leaf Rust,Fungal Infection,Provide adequate nutrition,0.7,/user/user/document/image_236.jpg,2022-07-20 16:12:56,2022-11-23 22:17:21
+Spinach Downy Mildew,Environmental Stress,Improve soil drainage,0.76,/user/user/document/image_666.jpg,2023-01-21 23:25:59,2022-12-26 03:54:08
+Dutch Elm Disease,Nutrient Deficiency,Apply neem oil,0.75,/user/user/document/image_624.jpg,2022-04-19 01:23:50,2023-09-30 00:33:19
+Septoria Leaf Spot,Poor Drainage,Provide adequate nutrition,0.73,/user/user/document/image_902.jpg,2023-10-03 07:18:23,2023-04-22 11:48:36
+Leaf Scorch,Poor Drainage,Use resistant varieties,0.52,/user/user/document/image_764.jpg,2023-06-08 02:02:01,2022-02-14 19:44:53
+Needle Blight,Viral Infection,Apply bactericide,0.52,/user/user/document/image_582.jpg,2022-05-29 14:12:42,2022-07-26 20:16:24
+Blue Mold,Bacterial Infection,Improve soil drainage,0.72,/user/user/document/image_792.jpg,2023-03-10 21:58:27,2023-01-25 10:45:28
+Tobacco Mosaic Virus,Pests,Use resistant varieties,0.57,/user/user/document/image_294.jpg,2022-01-18 08:58:34,2022-02-15 11:35:54
+Bean Rust,Bacterial Infection,Control pests,0.85,/user/user/document/image_105.jpg,2022-08-12 23:16:46,2023-12-15 07:11:46
+Cotton Root Rot,Fungal Infection,Adjust watering schedule,0.91,/user/user/document/image_539.jpg,2022-10-01 14:25:15,2022-08-30 00:44:55
+Blue Mold,Nutrient Deficiency,Use fungicide,0.64,/user/user/document/image_702.jpg,2022-09-26 06:07:43,2023-11-10 04:34:58
+Peach Leaf Curl,Chemical Damage,Provide adequate nutrition,0.57,/user/user/document/image_17.jpg,2023-04-17 08:52:34,2023-08-30 03:46:29
+Early Blight,Bacterial Infection,Use fungicide,0.8,/user/user/document/image_960.jpg,2023-04-10 05:52:50,2023-08-29 09:42:41
+Sooty Mold,Chemical Damage,Adjust watering schedule,0.89,/user/user/document/image_162.jpg,2022-05-13 22:35:02,2023-05-04 01:04:41
+Bacterial Speck,Bacterial Infection,Use resistant varieties,0.89,/user/user/document/image_620.jpg,2022-02-09 10:15:23,2024-01-27 12:09:01
+Huanglongbing,Environmental Stress,Control pests,0.66,/user/user/document/image_38.jpg,2023-10-14 05:00:25,2023-09-09 21:21:39
+Brown Rot,Poor Drainage,Adjust watering schedule,0.87,/user/user/document/image_613.jpg,2022-12-16 12:47:43,2024-02-04 08:00:22
+Squash Mosaic Virus,Pests,Use proper sanitation practices,0.73,/user/user/document/image_625.jpg,2024-05-05 03:13:23,2023-06-30 18:32:23
+Black Root Rot,Viral Infection,Adjust watering schedule,0.53,/user/user/document/image_879.jpg,2023-06-22 19:50:20,2022-08-27 09:28:54
+Potato Scab,Pests,Adjust watering schedule,0.97,/user/user/document/image_711.jpg,2022-04-23 04:20:33,2023-10-16 22:25:18
+Tobacco Mosaic Virus,Poor Drainage,Control pests,0.76,/user/user/document/image_281.jpg,2022-12-25 17:35:09,2024-04-17 03:05:29
+Alternaria Leaf Spot,Viral Infection,Apply bactericide,0.79,/user/user/document/image_933.jpg,2023-11-26 13:02:35,2022-07-04 17:55:47
+Leaf Blotch,Poor Drainage,Provide adequate nutrition,0.75,/user/user/document/image_309.jpg,2024-02-13 08:44:06,2023-10-08 13:20:29
+Sclerotinia Stem Rot,Environmental Stress,Use proper sanitation practices,1.0,/user/user/document/image_826.jpg,2022-01-06 19:50:57,2022-03-29 11:11:41
+Huanglongbing,Nutrient Deficiency,Apply bactericide,0.64,/user/user/document/image_823.jpg,2022-01-21 20:55:30,2023-01-05 01:27:28
+Dutch Elm Disease,Fungal Infection,Use fungicide,0.69,/user/user/document/image_858.jpg,2022-02-25 06:07:29,2023-11-07 19:48:41
+Anthracnose,Poor Drainage,Adjust watering schedule,0.97,/user/user/document/image_181.jpg,2023-11-11 07:34:32,2024-05-11 12:43:53
+White Rust,Viral Infection,Provide adequate nutrition,0.68,/user/user/document/image_302.jpg,2023-12-08 07:26:24,2023-12-24 08:55:19
+Alternaria Leaf Spot,Poor Drainage,Use fungicide,0.88,/user/user/document/image_35.jpg,2024-03-05 03:27:13,2022-03-02 15:25:12
+Late Blight,Environmental Stress,Remove infected leaves,0.77,/user/user/document/image_366.jpg,2022-12-19 06:56:31,2023-08-09 18:12:51
+Zinc Deficiency,Viral Infection,Provide adequate nutrition,0.61,/user/user/document/image_151.jpg,2022-04-19 20:29:32,2022-09-15 15:36:23
+Rhizoctonia Root Rot,Nutrient Deficiency,Control pests,0.94,/user/user/document/image_146.jpg,2024-04-24 01:25:20,2024-01-23 14:10:40
+Black Rot,Nutrient Deficiency,Apply neem oil,0.96,/user/user/document/image_883.jpg,2024-03-02 20:58:56,2024-01-25 00:40:47
+Verticillium Wilt,Nutrient Deficiency,Apply neem oil,0.87,/user/user/document/image_156.jpg,2023-05-15 14:48:11,2023-11-15 04:02:25
+Citrus Canker,Chemical Damage,Remove infected leaves,0.75,/user/user/document/image_447.jpg,2023-06-23 12:33:07,2023-11-25 07:19:45
+Watermelon Mosaic Virus,Nutrient Deficiency,Use resistant varieties,0.5,/user/user/document/image_888.jpg,2022-03-29 15:57:22,2024-04-28 03:48:37
+Tomato Spotted Wilt Virus,Chemical Damage,Use fungicide,0.52,/user/user/document/image_484.jpg,2023-03-25 07:15:48,2023-04-17 06:29:56
+Eggplant Verticillium Wilt,Fungal Infection,Use resistant varieties,0.65,/user/user/document/image_333.jpg,2024-04-30 19:18:48,2022-08-25 17:23:15
+Common Rust,Nutrient Deficiency,Apply bactericide,0.83,/user/user/document/image_893.jpg,2022-07-02 23:28:07,2023-02-11 19:25:48
+Anthracnose Fruit Rot,Fungal Infection,Apply neem oil,0.95,/user/user/document/image_696.jpg,2023-11-27 19:48:45,2023-06-07 21:11:28
+Sooty Mold,Fungal Infection,Improve soil drainage,0.91,/user/user/document/image_354.jpg,2022-10-07 09:15:59,2024-03-02 16:04:27
+Angular Leaf Spot,Fungal Infection,Apply bactericide,0.76,/user/user/document/image_855.jpg,2024-03-20 17:24:01,2023-09-10 02:31:19
+Brown Rot,Viral Infection,Apply neem oil,0.53,/user/user/document/image_993.jpg,2023-09-25 18:56:33,2024-02-21 12:13:08
+Armillaria Root Rot,Nutrient Deficiency,Provide adequate nutrition,0.94,/user/user/document/image_623.jpg,2023-05-16 06:23:40,2023-05-28 17:20:52
+Corky Root Rot,Environmental Stress,Apply bactericide,0.85,/user/user/document/image_786.jpg,2023-09-28 23:15:52,2022-05-17 06:09:33
+Alternaria Leaf Spot,Fungal Infection,Provide adequate nutrition,0.84,/user/user/document/image_147.jpg,2022-10-14 08:08:50,2022-11-10 02:03:26
+Black Spot,Fungal Infection,Use fungicide,0.77,/user/user/document/image_277.jpg,2022-09-04 07:06:41,2022-03-04 09:03:52
+Dutch Elm Disease,Bacterial Infection,Apply bactericide,0.53,/user/user/document/image_753.jpg,2023-07-08 02:24:34,2022-11-21 05:52:14
+Cabbage Yellows,Fungal Infection,Adjust watering schedule,0.54,/user/user/document/image_100.jpg,2022-08-25 12:20:49,2024-01-20 05:49:15
+Maize Dwarf Mosaic Virus,Pests,Improve soil drainage,0.58,/user/user/document/image_658.jpg,2023-08-12 08:34:49,2023-07-18 12:52:03
+Stemphylium Leaf Spot,Nutrient Deficiency,Adjust watering schedule,0.62,/user/user/document/image_216.jpg,2022-09-26 00:24:37,2023-03-06 15:36:47
+Canker,Fungal Infection,Use resistant varieties,0.99,/user/user/document/image_148.jpg,2022-09-30 00:23:40,2022-12-16 18:05:31
+Tobacco Mosaic Virus,Viral Infection,Apply bactericide,0.87,/user/user/document/image_914.jpg,2023-10-13 12:27:52,2023-05-03 05:10:22
+Damping-Off,Chemical Damage,Apply bactericide,0.64,/user/user/document/image_694.jpg,2024-03-30 22:25:21,2022-10-30 13:23:56
+Impatiens Necrotic Spot Virus,Viral Infection,Use resistant varieties,0.72,/user/user/document/image_676.jpg,2023-07-14 09:14:27,2022-09-11 02:57:54
+Brown Patch,Nutrient Deficiency,Control pests,0.84,/user/user/document/image_121.jpg,2022-09-16 16:50:15,2024-05-06 18:27:24
+Cotton Root Rot,Bacterial Infection,Adjust watering schedule,0.92,/user/user/document/image_841.jpg,2022-12-03 17:49:30,2022-09-10 23:30:58
+Sooty Mold,Chemical Damage,Apply bactericide,0.81,/user/user/document/image_289.jpg,2022-06-22 23:06:42,2023-08-12 04:07:56
+Leaf Rust,Nutrient Deficiency,Control pests,0.6,/user/user/document/image_514.jpg,2024-02-22 21:10:30,2024-04-01 22:50:40
+Downy Mildew,Nutrient Deficiency,Control pests,0.92,/user/user/document/image_178.jpg,2023-08-30 21:52:27,2022-10-06 19:32:36
+Kale Black Rot,Pests,Improve soil drainage,0.92,/user/user/document/image_727.jpg,2023-12-09 04:17:53,2022-10-14 03:29:44
+Basal Stem Rot,Poor Drainage,Improve soil drainage,0.68,/user/user/document/image_388.jpg,2023-12-11 16:47:48,2023-01-28 12:23:20
+Pink Root,Chemical Damage,Remove infected leaves,0.91,/user/user/document/image_857.jpg,2024-01-22 05:20:38,2022-12-13 07:29:43
+Gray Leaf Spot,Chemical Damage,Apply bactericide,0.54,/user/user/document/image_995.jpg,2022-05-13 10:30:54,2022-09-19 16:05:01
+Blossom End Rot,Nutrient Deficiency,Use proper sanitation practices,0.5,/user/user/document/image_927.jpg,2023-11-11 18:55:00,2022-02-21 03:11:43
+Fire Blight,Environmental Stress,Adjust watering schedule,0.63,/user/user/document/image_302.jpg,2022-06-09 08:04:31,2023-09-08 17:35:57
+Stem Rot,Viral Infection,Apply neem oil,0.66,/user/user/document/image_680.jpg,2022-01-15 01:55:05,2023-01-25 19:20:32
+Phomopsis Blight,Environmental Stress,Apply neem oil,0.8,/user/user/document/image_153.jpg,2023-10-03 07:58:37,2024-04-04 03:24:20
+Halo Blight,Fungal Infection,Control pests,0.6,/user/user/document/image_2.jpg,2022-06-13 12:39:38,2024-03-03 05:28:24
+White Rust,Viral Infection,Apply bactericide,0.53,/user/user/document/image_296.jpg,2023-06-01 07:31:01,2023-12-30 00:08:38
+Phomopsis Blight,Bacterial Infection,Remove infected leaves,0.56,/user/user/document/image_749.jpg,2024-01-25 08:47:13,2023-09-29 21:03:49
+Ergot,Viral Infection,Provide adequate nutrition,0.84,/user/user/document/image_718.jpg,2023-12-02 15:57:37,2023-08-09 05:07:16
+Bacterial Streak,Nutrient Deficiency,Apply neem oil,0.95,/user/user/document/image_383.jpg,2022-03-17 23:55:34,2023-02-20 22:57:31
+Bacterial Streak,Environmental Stress,Adjust watering schedule,0.87,/user/user/document/image_955.jpg,2022-03-03 01:01:19,2023-11-30 12:48:13
+Damping-Off,Viral Infection,Improve soil drainage,0.89,/user/user/document/image_758.jpg,2023-09-23 04:25:00,2022-08-09 08:52:34
+Angular Leaf Spot,Fungal Infection,Improve soil drainage,0.9,/user/user/document/image_107.jpg,2023-03-24 23:04:08,2023-07-18 12:06:41
+Impatiens Necrotic Spot Virus,Fungal Infection,Apply neem oil,0.66,/user/user/document/image_13.jpg,2024-03-29 02:45:25,2022-09-24 22:26:53
+Basal Stem Rot,Nutrient Deficiency,Improve soil drainage,0.79,/user/user/document/image_20.jpg,2023-11-21 17:53:05,2022-09-17 09:18:37
+Yellow Leaf Curl Virus,Bacterial Infection,Improve soil drainage,0.53,/user/user/document/image_125.jpg,2024-01-12 07:10:27,2024-01-10 01:25:40
+Common Rust,Nutrient Deficiency,Use proper sanitation practices,0.64,/user/user/document/image_828.jpg,2023-12-09 06:12:04,2022-05-13 00:20:22
+Potato Scab,Pests,Control pests,0.84,/user/user/document/image_221.jpg,2024-01-08 09:50:29,2024-03-30 15:52:28
+Bacterial Blight,Pests,Adjust watering schedule,0.78,/user/user/document/image_305.jpg,2022-11-26 14:47:03,2024-04-02 14:24:04
+Phomopsis Blight,Chemical Damage,Adjust watering schedule,0.71,/user/user/document/image_506.jpg,2023-09-01 17:09:20,2024-01-12 11:09:28
+Tobacco Mosaic Virus,Nutrient Deficiency,Use proper sanitation practices,0.79,/user/user/document/image_91.jpg,2022-12-25 10:55:03,2024-01-08 02:00:31
+Fire Blight,Pests,Use resistant varieties,0.76,/user/user/document/image_719.jpg,2023-06-30 07:47:03,2023-12-22 19:05:13
+Cabbage Yellows,Nutrient Deficiency,Improve soil drainage,0.68,/user/user/document/image_214.jpg,2023-08-23 00:31:59,2022-09-17 15:21:46
+Eggplant Verticillium Wilt,Pests,Apply bactericide,0.78,/user/user/document/image_619.jpg,2022-09-30 00:39:25,2023-04-16 05:30:24
+Pythium Root Rot,Chemical Damage,Adjust watering schedule,0.89,/user/user/document/image_486.jpg,2023-09-02 01:53:33,2022-07-04 20:03:27
+Tobacco Mosaic Virus,Poor Drainage,Apply bactericide,0.51,/user/user/document/image_101.jpg,2024-04-10 17:24:01,2022-08-05 16:17:57
+Lettuce Drop,Chemical Damage,Use fungicide,0.98,/user/user/document/image_683.jpg,2023-01-04 17:30:35,2024-02-11 16:54:25
+White Rust,Pests,Adjust watering schedule,0.86,/user/user/document/image_881.jpg,2022-10-22 20:52:59,2022-03-20 01:45:12
+Sclerotinia Stem Rot,Pests,Apply neem oil,0.85,/user/user/document/image_285.jpg,2022-10-17 15:33:27,2024-03-16 10:37:51
+Eggplant Verticillium Wilt,Poor Drainage,Control pests,0.69,/user/user/document/image_525.jpg,2023-06-14 04:55:48,2022-12-18 02:48:38
+Brown Rot,Chemical Damage,Use resistant varieties,0.96,/user/user/document/image_429.jpg,2023-08-26 22:44:07,2022-02-09 09:16:23
+Gray Leaf Spot,Bacterial Infection,Remove infected leaves,0.94,/user/user/document/image_517.jpg,2023-02-02 02:53:23,2022-07-14 08:25:08
+Gummy Stem Blight,Viral Infection,Adjust watering schedule,0.7,/user/user/document/image_66.jpg,2022-07-13 13:29:11,2022-05-26 15:40:11
+Clubroot,Pests,Apply bactericide,0.99,/user/user/document/image_478.jpg,2022-03-15 20:04:41,2023-08-27 00:07:14
+Stemphylium Leaf Spot,Chemical Damage,Apply neem oil,0.57,/user/user/document/image_965.jpg,2022-10-24 20:39:00,2023-01-12 07:31:44
+Canker,Fungal Infection,Adjust watering schedule,0.9,/user/user/document/image_532.jpg,2024-05-08 17:48:51,2023-08-30 10:25:04
+Clubroot,Poor Drainage,Use resistant varieties,0.94,/user/user/document/image_949.jpg,2023-08-11 03:52:16,2023-04-18 06:48:47
+Yellow Leaf Curl Virus,Poor Drainage,Apply neem oil,0.63,/user/user/document/image_906.jpg,2024-03-15 11:58:43,2022-01-29 10:10:19
+Root Knot Nematode,Bacterial Infection,Apply neem oil,0.7,/user/user/document/image_285.jpg,2023-03-03 04:01:59,2023-09-28 19:33:17
+Stemphylium Leaf Spot,Chemical Damage,Use fungicide,0.87,/user/user/document/image_367.jpg,2023-06-12 17:30:45,2023-10-26 14:00:47
+Mosaic Virus,Viral Infection,Remove infected leaves,0.96,/user/user/document/image_193.jpg,2022-06-26 13:14:27,2022-01-16 06:21:51
+Cabbage Yellows,Fungal Infection,Adjust watering schedule,0.99,/user/user/document/image_561.jpg,2023-03-26 06:18:52,2022-01-18 03:34:28
+Yellow Leaf Curl Virus,Viral Infection,Use proper sanitation practices,0.95,/user/user/document/image_287.jpg,2022-05-11 03:13:59,2022-07-16 12:07:32
+Citrus Canker,Pests,Use resistant varieties,0.92,/user/user/document/image_197.jpg,2023-09-16 03:49:45,2023-12-19 06:15:20
+Hydrangea Rust,Poor Drainage,Improve soil drainage,0.92,/user/user/document/image_422.jpg,2022-11-20 08:19:51,2022-10-27 13:11:28
+Peanut Leaf Spot,Bacterial Infection,Control pests,0.97,/user/user/document/image_22.jpg,2022-07-03 05:12:08,2022-03-20 16:42:32
+Clubroot,Nutrient Deficiency,Use resistant varieties,0.73,/user/user/document/image_203.jpg,2022-01-11 10:10:37,2023-01-06 21:29:36
+Blue Mold,Fungal Infection,Use proper sanitation practices,0.85,/user/user/document/image_907.jpg,2023-03-30 06:13:47,2023-04-18 13:26:23
+White Mold,Pests,Control pests,0.65,/user/user/document/image_496.jpg,2023-10-14 04:44:04,2023-10-19 09:22:38
+Citrus Greening,Poor Drainage,Adjust watering schedule,0.86,/user/user/document/image_369.jpg,2022-04-30 12:02:48,2023-09-19 07:42:34
+Common Rust,Nutrient Deficiency,Provide adequate nutrition,0.88,/user/user/document/image_960.jpg,2023-05-05 20:26:17,2022-01-09 02:47:01
+Fire Blight,Chemical Damage,Provide adequate nutrition,0.8,/user/user/document/image_216.jpg,2022-04-30 16:33:16,2023-12-26 15:08:15
+Tobacco Mosaic Virus,Pests,Use resistant varieties,0.67,/user/user/document/image_936.jpg,2022-02-19 10:24:27,2022-11-27 09:17:29
+Huanglongbing,Fungal Infection,Adjust watering schedule,0.7,/user/user/document/image_919.jpg,2022-12-04 00:21:27,2024-02-10 04:17:28
+Citrus Greening,Chemical Damage,Use fungicide,0.65,/user/user/document/image_802.jpg,2022-11-10 22:13:56,2022-12-10 23:13:31
+Black Knot,Poor Drainage,Use proper sanitation practices,0.72,/user/user/document/image_778.jpg,2022-06-22 23:38:56,2022-01-12 02:26:56
+Alternaria Leaf Spot,Pests,Remove infected leaves,0.55,/user/user/document/image_861.jpg,2023-10-18 04:40:42,2022-03-14 00:56:26
+Clubroot,Nutrient Deficiency,Apply bactericide,0.58,/user/user/document/image_830.jpg,2024-05-01 12:47:26,2022-03-14 11:27:33
+Blue Mold,Viral Infection,Remove infected leaves,0.87,/user/user/document/image_383.jpg,2022-09-02 10:25:39,2022-07-19 01:32:34
+Powdery Mildew,Bacterial Infection,Improve soil drainage,0.5,/user/user/document/image_672.jpg,2022-04-11 08:43:45,2022-08-22 05:15:22
+Tomato Spotted Wilt Virus,Pests,Use fungicide,0.87,/user/user/document/image_679.jpg,2023-05-29 04:52:20,2024-02-09 18:15:41
+Bacterial Blight,Environmental Stress,Adjust watering schedule,0.93,/user/user/document/image_935.jpg,2023-06-14 09:52:12,2023-05-23 23:27:58
+Peanut Leaf Spot,Environmental Stress,Apply neem oil,0.67,/user/user/document/image_587.jpg,2023-08-05 11:12:29,2023-11-25 22:07:56
+Halo Blight,Poor Drainage,Remove infected leaves,0.6,/user/user/document/image_855.jpg,2023-04-15 23:44:55,2024-04-21 09:17:31
+Cucumber Mosaic Virus,Viral Infection,Apply bactericide,0.74,/user/user/document/image_452.jpg,2023-11-05 22:07:14,2022-02-01 20:22:57
+Onion Downy Mildew,Bacterial Infection,Remove infected leaves,0.9,/user/user/document/image_248.jpg,2022-02-27 19:25:36,2022-01-06 08:47:17
+Leaf Blotch,Bacterial Infection,Apply bactericide,0.64,/user/user/document/image_992.jpg,2024-02-26 01:23:18,2023-08-18 10:14:01
+Bacterial Speck,Chemical Damage,Use proper sanitation practices,0.55,/user/user/document/image_530.jpg,2022-06-28 09:13:09,2022-08-01 11:23:12
+Black Root Rot,Poor Drainage,Use resistant varieties,0.91,/user/user/document/image_657.jpg,2022-07-20 00:22:03,2024-05-12 00:29:20
+Peach Leaf Curl,Chemical Damage,Provide adequate nutrition,0.8,/user/user/document/image_656.jpg,2023-11-25 16:55:49,2024-02-20 07:43:52
+Southern Blight,Viral Infection,Control pests,0.73,/user/user/document/image_640.jpg,2023-03-18 21:28:53,2023-04-11 05:26:20
+Botrytis Blight,Pests,Use resistant varieties,0.96,/user/user/document/image_444.jpg,2023-04-08 05:27:17,2022-06-01 04:47:40
+Angular Leaf Spot,Poor Drainage,Improve soil drainage,0.53,/user/user/document/image_942.jpg,2023-07-01 19:59:49,2022-11-24 09:28:30
+Basal Stem Rot,Poor Drainage,Provide adequate nutrition,0.97,/user/user/document/image_404.jpg,2022-07-22 14:32:32,2022-06-26 03:10:49
+Phomopsis Blight,Bacterial Infection,Provide adequate nutrition,0.9,/user/user/document/image_447.jpg,2023-11-26 03:30:24,2023-12-05 20:04:28
+Corky Root Rot,Chemical Damage,Use resistant varieties,0.83,/user/user/document/image_627.jpg,2022-07-07 21:27:41,2022-08-22 00:13:47
+Halo Blight,Pests,Apply bactericide,0.61,/user/user/document/image_24.jpg,2022-07-08 07:48:01,2023-11-25 19:09:18
+Citrus Greening,Chemical Damage,Remove infected leaves,0.89,/user/user/document/image_650.jpg,2022-07-02 05:17:09,2024-03-28 10:33:09
+Common Rust,Pests,Use resistant varieties,0.66,/user/user/document/image_677.jpg,2022-12-15 17:40:59,2022-03-03 22:26:55
+Late Blight,Bacterial Infection,Apply neem oil,0.55,/user/user/document/image_651.jpg,2023-07-14 03:58:19,2022-02-12 14:43:20
+Fusarium Wilt,Pests,Apply neem oil,0.61,/user/user/document/image_281.jpg,2023-07-24 15:23:44,2023-01-25 00:11:14
+Bacterial Wilt,Pests,Apply neem oil,0.61,/user/user/document/image_401.jpg,2022-11-30 05:01:05,2023-05-12 13:10:36
+Clubroot,Chemical Damage,Control pests,0.67,/user/user/document/image_473.jpg,2022-06-23 18:39:02,2023-03-11 01:57:19
+Black Rot,Pests,Adjust watering schedule,0.89,/user/user/document/image_273.jpg,2023-08-07 21:38:16,2023-05-05 16:29:10
+Stem Rot,Fungal Infection,Provide adequate nutrition,0.72,/user/user/document/image_433.jpg,2024-02-20 02:31:34,2022-06-04 16:09:12
+Late Blight,Environmental Stress,Use resistant varieties,0.92,/user/user/document/image_271.jpg,2022-07-08 08:23:55,2024-05-01 16:26:46
+Powdery Mildew,Bacterial Infection,Improve soil drainage,0.51,/user/user/document/image_188.jpg,2023-04-08 01:30:49,2023-12-11 01:36:39
+Ascochyta Blight,Pests,Apply neem oil,0.57,/user/user/document/image_115.jpg,2023-03-01 18:26:48,2023-01-21 03:06:57
+Squash Mosaic Virus,Chemical Damage,Remove infected leaves,0.98,/user/user/document/image_96.jpg,2023-06-26 00:37:31,2022-07-21 06:03:18
+Anthracnose,Environmental Stress,Apply neem oil,0.78,/user/user/document/image_849.jpg,2024-04-09 14:26:38,2024-03-20 03:54:03
+Black Root Rot,Pests,Apply neem oil,0.79,/user/user/document/image_549.jpg,2023-03-31 11:51:12,2022-05-13 05:55:46
+Peanut Leaf Spot,Environmental Stress,Remove infected leaves,0.64,/user/user/document/image_855.jpg,2022-03-20 20:20:49,2022-10-26 10:54:52
+Potato Scab,Viral Infection,Use proper sanitation practices,0.53,/user/user/document/image_252.jpg,2023-12-13 11:50:45,2022-12-23 09:23:37
+Nematode Damage,Nutrient Deficiency,Apply bactericide,0.68,/user/user/document/image_801.jpg,2022-05-10 15:55:17,2022-05-27 00:25:07
+Ascochyta Blight,Chemical Damage,Use resistant varieties,0.99,/user/user/document/image_326.jpg,2022-06-17 08:04:03,2023-03-06 05:21:49
+Alternaria Leaf Spot,Nutrient Deficiency,Adjust watering schedule,0.51,/user/user/document/image_150.jpg,2023-04-26 10:31:43,2023-05-27 04:38:38
+Bacterial Canker,Viral Infection,Apply neem oil,0.51,/user/user/document/image_540.jpg,2023-09-12 05:01:39,2022-01-11 18:00:56
+Halo Blight,Bacterial Infection,Adjust watering schedule,0.71,/user/user/document/image_577.jpg,2023-12-08 20:49:40,2022-09-25 21:54:02
+Red Stele,Pests,Use proper sanitation practices,0.52,/user/user/document/image_534.jpg,2022-05-28 17:18:26,2023-06-11 16:13:50
+Damping-Off,Chemical Damage,Control pests,0.9,/user/user/document/image_177.jpg,2022-08-17 11:58:42,2022-08-05 13:52:27
+Huanglongbing,Nutrient Deficiency,Apply bactericide,0.94,/user/user/document/image_380.jpg,2023-03-20 03:02:08,2022-06-28 05:38:18
+Hydrangea Rust,Environmental Stress,Apply neem oil,0.92,/user/user/document/image_281.jpg,2024-04-25 16:21:16,2023-12-11 05:47:26
+Botrytis Blight,Fungal Infection,Apply neem oil,0.57,/user/user/document/image_260.jpg,2023-02-22 04:06:26,2022-02-04 10:04:16
+Clubroot,Nutrient Deficiency,Apply bactericide,0.76,/user/user/document/image_890.jpg,2023-03-25 20:42:16,2022-07-09 10:33:01
+Corky Root Rot,Bacterial Infection,Use fungicide,0.95,/user/user/document/image_531.jpg,2023-11-10 17:15:45,2022-04-12 06:57:59
+Tomato Spotted Wilt Virus,Environmental Stress,Apply bactericide,0.65,/user/user/document/image_779.jpg,2022-10-11 14:07:34,2023-11-11 00:43:31
+Black Root Rot,Pests,Apply bactericide,0.68,/user/user/document/image_431.jpg,2022-09-16 09:47:07,2023-06-02 14:39:03
+Potato Scab,Viral Infection,Apply bactericide,0.99,/user/user/document/image_402.jpg,2023-01-17 10:35:35,2024-03-19 14:08:50
+Cercospora Leaf Spot,Nutrient Deficiency,Adjust watering schedule,0.73,/user/user/document/image_611.jpg,2023-12-17 03:29:10,2023-08-21 02:25:46
+Stem Rust,Chemical Damage,Apply bactericide,0.7,/user/user/document/image_168.jpg,2022-08-25 16:47:19,2024-04-06 18:00:15
+Maize Dwarf Mosaic Virus,Poor Drainage,Control pests,0.88,/user/user/document/image_955.jpg,2022-11-22 16:31:47,2022-06-29 17:56:08
+Dutch Elm Disease,Fungal Infection,Provide adequate nutrition,0.61,/user/user/document/image_855.jpg,2022-07-01 06:45:35,2022-04-13 23:46:17
+Peanut Leaf Spot,Nutrient Deficiency,Apply neem oil,0.9,/user/user/document/image_482.jpg,2023-04-17 08:25:22,2024-05-03 21:21:33
+Onion Downy Mildew,Environmental Stress,Use fungicide,0.68,/user/user/document/image_632.jpg,2024-03-21 18:24:43,2023-10-22 19:13:12
+Verticillium Wilt,Nutrient Deficiency,Provide adequate nutrition,0.89,/user/user/document/image_716.jpg,2022-10-15 22:46:10,2024-02-13 01:21:41
+Ergot,Environmental Stress,Apply bactericide,0.64,/user/user/document/image_343.jpg,2023-08-14 20:46:30,2022-10-15 06:17:56
+Halo Blight,Nutrient Deficiency,Apply neem oil,0.75,/user/user/document/image_253.jpg,2023-04-22 22:33:27,2024-05-12 19:30:30
+Cercospora Leaf Spot,Chemical Damage,Adjust watering schedule,0.6,/user/user/document/image_656.jpg,2023-02-02 04:19:03,2023-08-04 04:05:57
+Nematode Damage,Bacterial Infection,Improve soil drainage,0.59,/user/user/document/image_513.jpg,2022-03-24 16:40:47,2022-04-17 08:08:36
+Scab,Viral Infection,Improve soil drainage,0.87,/user/user/document/image_714.jpg,2022-04-30 03:43:00,2024-03-11 10:25:48
+Bacterial Spot,Nutrient Deficiency,Apply bactericide,0.71,/user/user/document/image_475.jpg,2023-02-05 03:18:39,2024-02-21 01:47:22
+Citrus Canker,Nutrient Deficiency,Use fungicide,0.87,/user/user/document/image_788.jpg,2023-06-22 19:49:03,2024-01-19 10:36:14
+Spinach Downy Mildew,Poor Drainage,Use resistant varieties,0.7,/user/user/document/image_626.jpg,2024-01-18 23:41:15,2023-04-05 15:55:41
+Fire Blight,Pests,Use proper sanitation practices,0.67,/user/user/document/image_246.jpg,2022-12-14 08:56:07,2023-05-09 10:58:54
+Late Blight,Fungal Infection,Control pests,0.65,/user/user/document/image_15.jpg,2022-10-06 19:19:36,2022-04-20 09:59:06
+Wheat Leaf Rust,Viral Infection,Control pests,0.85,/user/user/document/image_756.jpg,2022-01-11 15:25:03,2022-08-05 05:45:03
+Peach Leaf Curl,Fungal Infection,Remove infected leaves,0.83,/user/user/document/image_232.jpg,2024-03-16 04:52:53,2023-11-05 02:56:13
+Fire Blight,Viral Infection,Apply bactericide,0.63,/user/user/document/image_260.jpg,2022-03-26 19:07:38,2024-04-15 03:39:08
+White Mold,Poor Drainage,Adjust watering schedule,0.51,/user/user/document/image_704.jpg,2023-08-14 01:32:40,2022-06-30 10:39:03
+Fire Blight,Nutrient Deficiency,Use resistant varieties,0.55,/user/user/document/image_787.jpg,2022-03-16 10:44:33,2023-06-29 01:55:18
+Lettuce Drop,Pests,Use resistant varieties,0.93,/user/user/document/image_993.jpg,2022-08-23 15:37:12,2023-06-14 04:46:17
+Bacterial Blight,Viral Infection,Control pests,0.54,/user/user/document/image_158.jpg,2022-03-02 19:11:36,2023-01-19 09:24:49
+Bacterial Speck,Chemical Damage,Apply bactericide,0.51,/user/user/document/image_950.jpg,2022-08-03 04:22:54,2023-01-17 13:57:33
+Phomopsis Blight,Chemical Damage,Adjust watering schedule,0.52,/user/user/document/image_937.jpg,2022-12-26 23:45:51,2024-02-07 13:51:59
+Verticillium Wilt,Nutrient Deficiency,Apply neem oil,0.74,/user/user/document/image_772.jpg,2023-01-10 21:29:04,2024-04-08 03:08:14
+Fusarium Wilt,Bacterial Infection,Provide adequate nutrition,0.85,/user/user/document/image_227.jpg,2022-10-19 19:32:20,2022-07-16 01:24:46
+Root Knot Nematode,Chemical Damage,Improve soil drainage,0.54,/user/user/document/image_914.jpg,2023-12-24 17:11:28,2023-10-16 05:29:37
+Rice Blast,Bacterial Infection,Apply bactericide,0.68,/user/user/document/image_343.jpg,2022-09-01 20:42:17,2023-11-30 08:01:17
+Black Rot,Poor Drainage,Use proper sanitation practices,0.93,/user/user/document/image_888.jpg,2024-02-06 18:33:03,2023-11-27 03:53:24
+Stem Rot,Poor Drainage,Remove infected leaves,0.62,/user/user/document/image_159.jpg,2023-02-16 19:15:47,2023-05-15 09:30:28
+Anthracnose,Poor Drainage,Remove infected leaves,0.74,/user/user/document/image_633.jpg,2024-01-05 08:07:25,2023-10-09 11:20:30
+Alternaria Leaf Spot,Bacterial Infection,Apply neem oil,0.62,/user/user/document/image_77.jpg,2022-12-10 09:18:17,2022-03-28 03:34:15
+Zinc Deficiency,Environmental Stress,Remove infected leaves,0.51,/user/user/document/image_97.jpg,2023-07-10 12:58:33,2023-03-11 17:38:32
+Leaf Curl,Pests,Provide adequate nutrition,0.63,/user/user/document/image_637.jpg,2024-04-17 20:56:38,2024-01-20 04:35:42
+Rice Blast,Bacterial Infection,Use proper sanitation practices,0.55,/user/user/document/image_95.jpg,2023-06-06 01:18:47,2022-12-20 01:41:04
+Tobacco Mosaic Virus,Pests,Improve soil drainage,0.98,/user/user/document/image_617.jpg,2023-06-03 06:56:33,2022-08-01 02:58:51
+Stem Rot,Nutrient Deficiency,Use proper sanitation practices,0.64,/user/user/document/image_199.jpg,2023-08-01 05:20:06,2022-06-24 04:48:12
+Black Rot,Environmental Stress,Apply neem oil,0.94,/user/user/document/image_124.jpg,2022-04-28 23:49:22,2023-12-18 01:38:31
+Rhizoctonia Root Rot,Poor Drainage,Apply neem oil,0.74,/user/user/document/image_635.jpg,2022-12-09 11:13:58,2023-06-01 15:15:00
+Bacterial Canker,Chemical Damage,Use resistant varieties,1.0,/user/user/document/image_570.jpg,2024-02-06 10:55:56,2023-09-28 02:18:37
+Black Knot,Pests,Improve soil drainage,0.67,/user/user/document/image_649.jpg,2024-01-25 10:01:55,2023-10-20 22:40:17
+Corky Root Rot,Nutrient Deficiency,Apply neem oil,0.84,/user/user/document/image_397.jpg,2023-02-24 17:00:32,2023-12-13 16:38:03
+Bean Common Mosaic Virus,Poor Drainage,Use fungicide,0.57,/user/user/document/image_478.jpg,2023-02-28 10:24:29,2022-06-18 00:46:18
+Late Blight,Bacterial Infection,Adjust watering schedule,0.76,/user/user/document/image_101.jpg,2024-02-04 12:48:08,2023-11-13 11:39:39
+Zinc Deficiency,Poor Drainage,Use proper sanitation practices,0.57,/user/user/document/image_350.jpg,2023-04-14 08:10:19,2023-11-28 08:34:15
+Ascochyta Blight,Poor Drainage,Control pests,0.65,/user/user/document/image_643.jpg,2023-08-24 17:41:29,2022-04-23 00:45:12
+Rust,Viral Infection,Apply neem oil,0.53,/user/user/document/image_881.jpg,2023-06-12 08:50:38,2023-10-07 04:11:05
+Clubroot,Poor Drainage,Provide adequate nutrition,0.85,/user/user/document/image_498.jpg,2022-07-06 23:19:03,2022-09-12 23:06:39
+Fusarium Wilt,Fungal Infection,Apply bactericide,0.61,/user/user/document/image_345.jpg,2024-01-23 22:42:53,2022-05-13 13:20:27
+Bacterial Speck,Poor Drainage,Apply neem oil,0.87,/user/user/document/image_794.jpg,2024-04-28 18:56:00,2022-08-09 15:50:58
+Root Knot Nematode,Chemical Damage,Use proper sanitation practices,0.6,/user/user/document/image_602.jpg,2023-10-25 19:42:15,2023-04-10 02:38:21
+Sooty Mold,Pests,Adjust watering schedule,0.59,/user/user/document/image_23.jpg,2022-08-08 04:33:30,2022-07-26 19:58:57
+Stem Rot,Poor Drainage,Provide adequate nutrition,0.98,/user/user/document/image_665.jpg,2022-06-04 12:39:52,2022-10-26 01:44:35
+Cabbage Yellows,Viral Infection,Control pests,0.55,/user/user/document/image_273.jpg,2022-08-10 15:36:18,2024-04-06 01:54:09
+Leaf Spot,Pests,Adjust watering schedule,0.85,/user/user/document/image_921.jpg,2024-02-25 19:42:30,2023-10-11 10:21:25
+Halo Blight,Bacterial Infection,Use fungicide,0.96,/user/user/document/image_812.jpg,2022-08-27 12:58:31,2023-08-09 19:58:44
+Eggplant Verticillium Wilt,Bacterial Infection,Apply neem oil,0.86,/user/user/document/image_843.jpg,2022-12-29 17:39:08,2022-12-09 10:36:15
+Bean Common Mosaic Virus,Bacterial Infection,Apply neem oil,0.65,/user/user/document/image_598.jpg,2022-12-11 18:30:47,2022-01-20 10:03:51
+Dutch Elm Disease,Poor Drainage,Adjust watering schedule,0.69,/user/user/document/image_62.jpg,2022-02-19 05:30:31,2023-10-29 17:29:54
+Huanglongbing,Bacterial Infection,Use proper sanitation practices,0.55,/user/user/document/image_738.jpg,2022-05-05 09:45:39,2022-10-22 23:57:54
+Citrus Greening,Chemical Damage,Improve soil drainage,0.57,/user/user/document/image_913.jpg,2023-11-24 12:52:13,2023-03-17 14:16:32
+Yellow Leaf Curl Virus,Bacterial Infection,Adjust watering schedule,0.72,/user/user/document/image_780.jpg,2023-03-17 12:44:16,2024-04-30 23:18:05
+Pink Root,Chemical Damage,Use resistant varieties,0.7,/user/user/document/image_647.jpg,2023-02-10 04:40:04,2022-12-03 08:09:42
+Leaf Blotch,Poor Drainage,Use resistant varieties,0.66,/user/user/document/image_359.jpg,2023-06-02 10:11:07,2023-09-16 02:33:30
+Ergot,Environmental Stress,Use proper sanitation practices,0.62,/user/user/document/image_530.jpg,2023-03-28 18:56:57,2023-11-08 10:05:41
+Bean Rust,Fungal Infection,Remove infected leaves,0.64,/user/user/document/image_869.jpg,2023-08-15 01:23:30,2024-01-06 06:56:29
+Wheat Leaf Rust,Environmental Stress,Improve soil drainage,0.9,/user/user/document/image_937.jpg,2023-06-27 12:07:20,2023-07-10 21:15:27
+Bacterial Canker,Nutrient Deficiency,Remove infected leaves,0.85,/user/user/document/image_193.jpg,2023-06-09 16:07:49,2022-03-07 12:29:24
+Bean Rust,Poor Drainage,Control pests,0.69,/user/user/document/image_985.jpg,2023-10-10 03:12:51,2024-04-19 15:10:38
+Black Spot,Environmental Stress,Provide adequate nutrition,0.52,/user/user/document/image_744.jpg,2023-06-14 11:57:17,2024-05-14 09:47:08
+Stem Rust,Chemical Damage,Control pests,0.65,/user/user/document/image_230.jpg,2022-01-23 06:46:28,2023-04-05 18:06:22
+Pythium Root Rot,Chemical Damage,Control pests,0.75,/user/user/document/image_255.jpg,2022-10-08 18:39:48,2023-04-23 21:05:24
+Anthracnose Fruit Rot,Poor Drainage,Apply neem oil,0.7,/user/user/document/image_276.jpg,2023-03-08 09:16:26,2024-04-16 03:22:42
+Sclerotinia Stem Rot,Environmental Stress,Remove infected leaves,0.73,/user/user/document/image_688.jpg,2024-04-03 17:05:44,2022-10-29 22:37:10
+Impatiens Necrotic Spot Virus,Poor Drainage,Provide adequate nutrition,0.63,/user/user/document/image_640.jpg,2022-03-25 11:50:41,2023-08-16 01:48:28
+Ascochyta Blight,Environmental Stress,Apply neem oil,0.81,/user/user/document/image_384.jpg,2023-01-24 04:08:10,2022-04-27 19:42:53
+Verticillium Wilt,Viral Infection,Provide adequate nutrition,0.77,/user/user/document/image_319.jpg,2022-08-29 23:11:43,2022-01-20 01:36:09
+Leaf Rust,Viral Infection,Apply neem oil,0.9,/user/user/document/image_65.jpg,2022-07-25 04:54:18,2024-05-12 07:06:04
+Yellow Leaf Curl Virus,Poor Drainage,Use resistant varieties,0.89,/user/user/document/image_841.jpg,2023-04-28 18:37:42,2023-04-22 18:06:21
+Blossom End Rot,Chemical Damage,Improve soil drainage,0.65,/user/user/document/image_7.jpg,2022-09-14 07:53:57,2022-01-26 13:27:29
+Powdery Mildew,Fungal Infection,Provide adequate nutrition,0.72,/user/user/document/image_981.jpg,2023-05-04 16:57:21,2023-03-08 03:27:54
+Peach Leaf Curl,Fungal Infection,Use proper sanitation practices,0.6,/user/user/document/image_399.jpg,2022-12-21 06:21:17,2022-10-30 03:46:07
+Common Rust,Bacterial Infection,Provide adequate nutrition,0.6,/user/user/document/image_712.jpg,2022-10-29 12:45:14,2022-12-19 06:25:26
+Anthracnose,Environmental Stress,Use resistant varieties,0.74,/user/user/document/image_156.jpg,2022-01-02 05:09:12,2023-03-03 23:27:53
+Gummy Stem Blight,Chemical Damage,Provide adequate nutrition,0.75,/user/user/document/image_363.jpg,2022-04-16 01:16:56,2024-01-21 21:52:53
+Nematode Damage,Environmental Stress,Use resistant varieties,0.63,/user/user/document/image_56.jpg,2023-10-08 00:55:26,2023-10-14 18:02:26
+Citrus Greening,Chemical Damage,Use fungicide,0.52,/user/user/document/image_752.jpg,2022-06-06 19:55:37,2023-07-22 12:44:06
+Armillaria Root Rot,Chemical Damage,Improve soil drainage,0.68,/user/user/document/image_837.jpg,2023-09-25 00:23:59,2022-01-04 07:19:59
+Sclerotinia Stem Rot,Nutrient Deficiency,Use resistant varieties,0.65,/user/user/document/image_604.jpg,2022-10-04 10:11:12,2023-08-05 11:55:49
+Gray Mold,Viral Infection,Use proper sanitation practices,0.94,/user/user/document/image_489.jpg,2023-01-06 02:47:14,2024-04-08 01:55:41
+Verticillium Wilt,Nutrient Deficiency,Use proper sanitation practices,0.86,/user/user/document/image_710.jpg,2023-03-03 21:13:43,2023-02-18 19:07:59
+Leaf Curl,Fungal Infection,Remove infected leaves,0.72,/user/user/document/image_384.jpg,2022-06-15 12:46:39,2022-06-01 18:23:55
+Zinc Deficiency,Pests,Use proper sanitation practices,0.7,/user/user/document/image_318.jpg,2022-03-01 23:56:26,2023-12-06 11:31:04
+Anthracnose,Environmental Stress,Apply bactericide,0.83,/user/user/document/image_763.jpg,2023-04-11 13:12:41,2022-07-11 02:44:43
+Bean Common Mosaic Virus,Chemical Damage,Use resistant varieties,0.6,/user/user/document/image_231.jpg,2023-01-11 17:16:07,2023-11-17 17:53:20
+Bacterial Wilt,Pests,Use fungicide,0.76,/user/user/document/image_826.jpg,2022-11-07 07:52:58,2023-10-12 06:45:20
+Bacterial Streak,Environmental Stress,Provide adequate nutrition,0.8,/user/user/document/image_365.jpg,2024-02-29 14:56:09,2022-12-07 05:43:15
+Needle Blight,Poor Drainage,Improve soil drainage,0.82,/user/user/document/image_189.jpg,2022-12-30 03:42:18,2023-12-04 02:00:39
+Pepper Anthracnose,Poor Drainage,Remove infected leaves,0.68,/user/user/document/image_576.jpg,2023-10-31 11:12:59,2023-01-20 03:12:03
+Fire Blight,Environmental Stress,Apply neem oil,0.52,/user/user/document/image_655.jpg,2022-01-20 00:04:25,2024-03-21 15:07:22
+Dutch Elm Disease,Chemical Damage,Use resistant varieties,0.58,/user/user/document/image_859.jpg,2022-09-07 10:31:39,2024-03-14 20:12:46
+Cucumber Mosaic Virus,Bacterial Infection,Control pests,0.7,/user/user/document/image_504.jpg,2023-04-02 15:36:42,2024-02-14 05:51:59
+Maize Dwarf Mosaic Virus,Pests,Control pests,0.87,/user/user/document/image_771.jpg,2022-01-13 02:41:26,2022-10-04 06:21:31
+Common Rust,Poor Drainage,Apply bactericide,0.97,/user/user/document/image_376.jpg,2023-08-28 16:04:38,2024-03-09 00:51:30
+Rice Blast,Chemical Damage,Use proper sanitation practices,0.85,/user/user/document/image_795.jpg,2023-11-19 00:56:58,2022-08-22 17:23:50
+Pythium Root Rot,Poor Drainage,Remove infected leaves,0.67,/user/user/document/image_859.jpg,2022-04-07 20:05:53,2023-04-15 17:55:33
+Verticillium Wilt,Viral Infection,Apply neem oil,0.67,/user/user/document/image_938.jpg,2023-08-08 09:14:45,2023-09-07 06:57:18
+Bacterial Spot,Nutrient Deficiency,Use fungicide,0.9,/user/user/document/image_620.jpg,2023-06-21 02:44:15,2023-01-16 04:07:11
+Phytophthora Blight,Chemical Damage,Provide adequate nutrition,0.69,/user/user/document/image_839.jpg,2022-08-05 11:14:22,2022-01-12 17:20:37
+Anthracnose Fruit Rot,Nutrient Deficiency,Control pests,0.57,/user/user/document/image_936.jpg,2024-02-07 20:28:42,2022-02-28 13:49:55
+Hydrangea Rust,Bacterial Infection,Use fungicide,0.97,/user/user/document/image_789.jpg,2023-10-23 04:57:55,2023-09-21 23:45:26
+Scab,Poor Drainage,Adjust watering schedule,0.59,/user/user/document/image_452.jpg,2023-08-18 20:32:25,2022-08-29 01:19:04
+Black Rot,Bacterial Infection,Provide adequate nutrition,0.64,/user/user/document/image_920.jpg,2022-01-24 00:42:11,2022-09-05 15:46:48
+Yellow Leaf Curl Virus,Pests,Apply neem oil,0.7,/user/user/document/image_387.jpg,2023-10-02 08:51:40,2022-01-21 17:48:35
+Wheat Leaf Rust,Pests,Improve soil drainage,0.81,/user/user/document/image_69.jpg,2023-06-05 18:40:57,2022-06-12 20:09:40
+Squash Mosaic Virus,Bacterial Infection,Improve soil drainage,0.73,/user/user/document/image_375.jpg,2023-10-27 03:57:21,2022-12-06 21:41:48
+Common Rust,Poor Drainage,Use proper sanitation practices,0.54,/user/user/document/image_304.jpg,2022-07-25 20:28:04,2022-09-16 17:05:47
+Leaf Curl,Nutrient Deficiency,Control pests,0.55,/user/user/document/image_159.jpg,2023-07-21 05:40:40,2022-01-14 06:24:16
+Halo Blight,Chemical Damage,Apply neem oil,0.96,/user/user/document/image_821.jpg,2022-04-17 21:07:38,2022-02-24 22:55:51
+Southern Blight,Bacterial Infection,Improve soil drainage,0.75,/user/user/document/image_251.jpg,2023-10-10 17:03:09,2023-09-19 04:42:37
+Early Blight,Environmental Stress,Apply neem oil,0.94,/user/user/document/image_217.jpg,2023-12-19 19:51:51,2024-02-16 12:44:17
+Fusarium Wilt,Pests,Apply bactericide,0.94,/user/user/document/image_55.jpg,2022-01-01 00:08:03,2022-07-04 02:16:11
+Blossom End Rot,Poor Drainage,Apply bactericide,0.82,/user/user/document/image_982.jpg,2024-05-14 00:56:30,2022-02-12 23:18:41
+Corn Smut,Environmental Stress,Use resistant varieties,0.76,/user/user/document/image_459.jpg,2022-08-16 15:13:18,2024-05-04 01:48:31
+Leaf Spot,Poor Drainage,Use proper sanitation practices,0.95,/user/user/document/image_343.jpg,2024-04-07 11:51:08,2023-05-21 04:30:14
+Phytophthora Blight,Chemical Damage,Use proper sanitation practices,0.67,/user/user/document/image_913.jpg,2023-05-29 17:16:24,2024-03-06 19:19:13
+Needle Blight,Environmental Stress,Remove infected leaves,0.72,/user/user/document/image_258.jpg,2022-05-20 15:05:41,2022-10-19 19:18:49
+Angular Leaf Spot,Fungal Infection,Control pests,0.7,/user/user/document/image_56.jpg,2022-04-14 23:42:09,2022-07-10 08:40:23
+Yellow Leaf Curl Virus,Fungal Infection,Use resistant varieties,0.87,/user/user/document/image_878.jpg,2023-11-25 13:23:23,2022-01-09 20:34:32
+Mosaic Virus,Nutrient Deficiency,Use resistant varieties,0.96,/user/user/document/image_777.jpg,2023-05-11 23:00:09,2022-09-09 15:59:55
+Squash Mosaic Virus,Bacterial Infection,Use fungicide,0.72,/user/user/document/image_736.jpg,2024-03-06 09:14:18,2024-03-23 13:21:20
+Bacterial Streak,Viral Infection,Use fungicide,0.92,/user/user/document/image_601.jpg,2023-11-02 02:07:10,2022-11-19 17:07:52
+Common Rust,Bacterial Infection,Control pests,0.53,/user/user/document/image_902.jpg,2024-02-18 10:18:38,2023-03-23 04:24:12
+Alternaria Leaf Spot,Chemical Damage,Use fungicide,0.7,/user/user/document/image_648.jpg,2022-04-08 19:29:01,2022-03-01 20:11:40
+Sooty Mold,Bacterial Infection,Remove infected leaves,0.58,/user/user/document/image_522.jpg,2023-07-17 13:29:20,2022-04-12 18:15:14
+Leaf Spot,Viral Infection,Use fungicide,0.69,/user/user/document/image_933.jpg,2022-07-23 12:31:25,2022-05-28 05:10:57
+Pepper Anthracnose,Viral Infection,Use proper sanitation practices,0.92,/user/user/document/image_206.jpg,2024-04-22 04:53:28,2024-05-01 17:48:08
+Early Blight,Nutrient Deficiency,Use resistant varieties,0.91,/user/user/document/image_243.jpg,2022-04-26 22:36:27,2023-04-19 09:30:59
+Cotton Root Rot,Poor Drainage,Provide adequate nutrition,0.57,/user/user/document/image_597.jpg,2023-06-28 03:54:33,2022-07-13 22:21:15
+Clubroot,Chemical Damage,Apply neem oil,0.6,/user/user/document/image_676.jpg,2023-07-11 11:59:59,2022-11-24 18:29:09
+Tomato Spotted Wilt Virus,Fungal Infection,Provide adequate nutrition,0.79,/user/user/document/image_534.jpg,2023-06-16 16:43:32,2022-10-02 10:58:26
+Pythium Root Rot,Viral Infection,Remove infected leaves,0.53,/user/user/document/image_45.jpg,2023-12-07 19:26:27,2023-01-08 21:46:36
+Spinach Downy Mildew,Nutrient Deficiency,Use fungicide,0.54,/user/user/document/image_642.jpg,2023-01-11 12:02:45,2023-06-14 06:25:10
+Wheat Leaf Rust,Fungal Infection,Control pests,0.97,/user/user/document/image_576.jpg,2024-03-05 21:23:32,2024-05-04 17:41:02
+Citrus Greening,Chemical Damage,Remove infected leaves,0.62,/user/user/document/image_578.jpg,2022-05-04 17:06:47,2023-02-09 02:35:30
+Onion Downy Mildew,Nutrient Deficiency,Remove infected leaves,0.75,/user/user/document/image_887.jpg,2022-11-02 13:45:54,2022-11-22 08:20:48
+Phomopsis Blight,Viral Infection,Apply bactericide,0.97,/user/user/document/image_477.jpg,2022-08-05 19:18:30,2022-06-23 13:38:25
+Powdery Mildew,Poor Drainage,Provide adequate nutrition,0.83,/user/user/document/image_846.jpg,2023-01-04 17:15:17,2022-11-11 23:42:27
+Squash Mosaic Virus,Environmental Stress,Use fungicide,0.81,/user/user/document/image_387.jpg,2023-07-05 07:57:12,2023-06-09 05:07:23
+Melon Necrotic Spot Virus,Environmental Stress,Use proper sanitation practices,0.93,/user/user/document/image_948.jpg,2023-12-11 14:54:25,2023-12-19 07:15:44
+Tomato Spotted Wilt Virus,Chemical Damage,Provide adequate nutrition,0.78,/user/user/document/image_490.jpg,2022-03-09 20:09:57,2023-01-16 23:22:56
+Tobacco Mosaic Virus,Environmental Stress,Provide adequate nutrition,0.5,/user/user/document/image_32.jpg,2023-04-08 16:21:33,2022-03-02 20:00:31
+Bacterial Canker,Nutrient Deficiency,Improve soil drainage,0.66,/user/user/document/image_339.jpg,2022-09-09 06:22:46,2022-05-10 22:41:05
+Cabbage Yellows,Viral Infection,Provide adequate nutrition,0.8,/user/user/document/image_39.jpg,2022-05-10 01:38:57,2023-11-13 23:00:27
+Potato Scab,Viral Infection,Adjust watering schedule,0.7,/user/user/document/image_525.jpg,2022-06-28 21:12:39,2022-04-09 21:34:37
+Tobacco Mosaic Virus,Poor Drainage,Remove infected leaves,0.77,/user/user/document/image_592.jpg,2022-07-29 00:25:31,2022-08-09 04:48:20
+Ascochyta Blight,Poor Drainage,Apply bactericide,0.98,/user/user/document/image_867.jpg,2022-04-30 07:12:42,2023-04-24 06:51:33
+Stem Rust,Viral Infection,Adjust watering schedule,0.77,/user/user/document/image_932.jpg,2023-04-02 00:55:33,2023-07-16 07:56:38
+Ascochyta Blight,Poor Drainage,Control pests,0.71,/user/user/document/image_227.jpg,2022-12-05 17:36:34,2022-04-30 05:50:28
+Halo Blight,Nutrient Deficiency,Use proper sanitation practices,0.68,/user/user/document/image_685.jpg,2023-10-22 04:25:00,2023-01-07 03:49:27
+Yellow Leaf Curl Virus,Pests,Improve soil drainage,0.77,/user/user/document/image_148.jpg,2022-02-04 03:27:53,2024-02-15 11:21:46
+Nematode Damage,Pests,Use resistant varieties,0.67,/user/user/document/image_142.jpg,2022-10-31 09:17:41,2023-04-11 09:43:28
+Basal Stem Rot,Pests,Apply bactericide,0.72,/user/user/document/image_350.jpg,2023-11-26 09:15:15,2024-01-02 20:55:41
+Phomopsis Blight,Nutrient Deficiency,Apply bactericide,0.61,/user/user/document/image_749.jpg,2023-11-08 21:43:39,2023-05-01 21:46:51
+Gray Leaf Spot,Environmental Stress,Apply bactericide,0.52,/user/user/document/image_208.jpg,2024-01-25 10:15:55,2022-02-02 04:16:32
+Brown Rot,Fungal Infection,Use proper sanitation practices,0.6,/user/user/document/image_701.jpg,2023-04-17 16:30:33,2022-12-12 16:39:04
+Fire Blight,Pests,Apply neem oil,0.59,/user/user/document/image_411.jpg,2023-11-29 21:32:15,2022-05-07 21:30:12
+Black Root Rot,Pests,Improve soil drainage,0.56,/user/user/document/image_628.jpg,2022-10-04 20:58:21,2023-09-08 10:16:21
+Needle Blight,Nutrient Deficiency,Control pests,0.95,/user/user/document/image_319.jpg,2022-03-28 13:11:39,2023-12-04 17:49:52
+Early Blight,Poor Drainage,Apply neem oil,0.55,/user/user/document/image_597.jpg,2024-03-18 11:38:16,2024-01-16 11:17:04
+Citrus Canker,Bacterial Infection,Adjust watering schedule,0.82,/user/user/document/image_909.jpg,2023-01-10 21:42:05,2022-05-20 23:28:23
+Pepper Anthracnose,Nutrient Deficiency,Use resistant varieties,0.58,/user/user/document/image_944.jpg,2023-07-23 20:35:14,2024-03-30 05:13:50
+Black Heart,Environmental Stress,Apply bactericide,0.89,/user/user/document/image_518.jpg,2022-08-19 07:24:30,2022-07-10 18:25:44
+Cotton Root Rot,Pests,Adjust watering schedule,0.96,/user/user/document/image_400.jpg,2024-04-12 07:02:54,2022-01-02 18:33:03
+Early Blight,Fungal Infection,Use resistant varieties,0.63,/user/user/document/image_894.jpg,2023-08-28 19:53:57,2023-09-03 08:15:16
+Citrus Canker,Poor Drainage,Provide adequate nutrition,0.99,/user/user/document/image_233.jpg,2022-02-04 13:41:02,2024-01-15 20:04:23
+Gray Leaf Spot,Chemical Damage,Improve soil drainage,0.8,/user/user/document/image_85.jpg,2022-03-29 18:35:23,2022-06-28 18:49:31
+Root Knot Nematode,Environmental Stress,Provide adequate nutrition,0.52,/user/user/document/image_928.jpg,2022-08-08 15:26:53,2022-04-23 03:25:39
+Downy Mildew,Viral Infection,Adjust watering schedule,0.66,/user/user/document/image_556.jpg,2023-12-03 06:31:52,2022-01-20 18:48:59
+White Mold,Environmental Stress,Remove infected leaves,0.83,/user/user/document/image_531.jpg,2023-11-03 03:22:57,2023-11-19 06:24:18
+Black Rot,Environmental Stress,Apply neem oil,0.69,/user/user/document/image_284.jpg,2023-09-18 20:38:49,2023-11-08 07:09:37
+Gummy Stem Blight,Environmental Stress,Improve soil drainage,0.9,/user/user/document/image_343.jpg,2022-03-16 07:08:49,2023-06-03 18:47:57
+Stemphylium Leaf Spot,Chemical Damage,Remove infected leaves,0.84,/user/user/document/image_14.jpg,2022-03-01 21:16:17,2023-06-12 21:48:36
+Citrus Canker,Fungal Infection,Use proper sanitation practices,0.97,/user/user/document/image_890.jpg,2022-01-14 04:20:32,2022-07-24 15:38:18
+Spinach Downy Mildew,Bacterial Infection,Use fungicide,0.59,/user/user/document/image_568.jpg,2024-02-25 19:06:38,2022-04-17 05:41:40
+Black Spot,Poor Drainage,Remove infected leaves,0.82,/user/user/document/image_59.jpg,2022-06-26 05:49:18,2022-11-22 00:32:03
+Maize Dwarf Mosaic Virus,Bacterial Infection,Adjust watering schedule,0.68,/user/user/document/image_398.jpg,2023-12-07 01:26:04,2022-11-08 03:32:49
+Septoria Leaf Spot,Pests,Use resistant varieties,0.88,/user/user/document/image_332.jpg,2022-12-10 21:24:25,2023-08-29 18:45:43
+Cotton Root Rot,Nutrient Deficiency,Use fungicide,0.86,/user/user/document/image_886.jpg,2024-03-10 12:00:25,2024-04-09 08:57:35
+Peach Leaf Curl,Bacterial Infection,Improve soil drainage,0.76,/user/user/document/image_24.jpg,2022-03-22 11:20:03,2023-07-21 19:07:49
+Leaf Scorch,Poor Drainage,Control pests,0.92,/user/user/document/image_992.jpg,2023-11-27 01:07:06,2023-11-11 03:59:31
+Downy Mildew,Viral Infection,Adjust watering schedule,0.79,/user/user/document/image_690.jpg,2023-09-09 16:37:14,2022-12-10 18:06:17
+Citrus Canker,Viral Infection,Control pests,0.76,/user/user/document/image_480.jpg,2024-03-27 16:29:47,2024-02-11 21:41:05
+Gray Mold,Pests,Control pests,0.75,/user/user/document/image_789.jpg,2023-04-27 05:55:15,2023-06-16 11:36:16
+Ergot,Fungal Infection,Improve soil drainage,0.95,/user/user/document/image_271.jpg,2022-11-28 19:51:31,2023-03-25 07:06:08
+Pink Root,Viral Infection,Use proper sanitation practices,0.97,/user/user/document/image_738.jpg,2023-11-14 23:13:51,2022-12-23 22:34:18
+Phytophthora Blight,Environmental Stress,Remove infected leaves,0.97,/user/user/document/image_891.jpg,2023-03-09 03:20:44,2022-11-23 22:17:07
+Canker,Bacterial Infection,Use fungicide,0.94,/user/user/document/image_956.jpg,2023-12-30 09:34:16,2023-05-01 06:58:00
+Cotton Root Rot,Viral Infection,Provide adequate nutrition,0.56,/user/user/document/image_939.jpg,2024-03-20 15:16:07,2023-09-24 08:42:52
+Botrytis Blight,Viral Infection,Control pests,0.74,/user/user/document/image_749.jpg,2022-04-13 16:05:44,2022-11-19 19:35:14
+Angular Leaf Spot,Pests,Use fungicide,0.64,/user/user/document/image_588.jpg,2023-06-23 05:56:23,2024-04-23 22:18:48
+White Rust,Chemical Damage,Remove infected leaves,0.56,/user/user/document/image_81.jpg,2022-01-13 22:12:06,2024-02-15 20:44:36
+Spinach Downy Mildew,Pests,Remove infected leaves,0.82,/user/user/document/image_654.jpg,2024-03-30 14:13:47,2023-12-09 15:07:09
+Squash Mosaic Virus,Chemical Damage,Control pests,0.98,/user/user/document/image_250.jpg,2023-03-17 17:45:02,2023-07-04 17:57:33
+Corky Root Rot,Chemical Damage,Control pests,0.66,/user/user/document/image_321.jpg,2022-03-22 22:12:34,2022-07-07 02:17:23
+Bacterial Streak,Poor Drainage,Adjust watering schedule,0.83,/user/user/document/image_234.jpg,2023-05-07 06:46:15,2022-11-24 19:09:09
+Ergot,Pests,Remove infected leaves,0.95,/user/user/document/image_479.jpg,2023-06-04 00:50:51,2024-01-17 00:20:31
+Downy Mildew,Chemical Damage,Use fungicide,0.82,/user/user/document/image_480.jpg,2022-08-25 05:09:12,2024-03-29 22:23:19
+Rhizoctonia Root Rot,Environmental Stress,Apply neem oil,0.79,/user/user/document/image_214.jpg,2022-09-29 11:05:17,2022-04-17 05:10:11
+Tomato Spotted Wilt Virus,Poor Drainage,Use fungicide,0.95,/user/user/document/image_488.jpg,2024-01-10 18:14:46,2023-07-08 10:00:15
+Pink Root,Viral Infection,Provide adequate nutrition,0.57,/user/user/document/image_889.jpg,2023-02-17 08:05:45,2023-08-17 12:39:48
+Bean Rust,Chemical Damage,Use proper sanitation practices,0.83,/user/user/document/image_240.jpg,2023-05-25 14:20:50,2022-06-21 17:24:57
+Botrytis Blight,Environmental Stress,Remove infected leaves,0.82,/user/user/document/image_799.jpg,2022-07-03 15:32:51,2022-09-01 02:18:29
+Anthracnose Fruit Rot,Viral Infection,Provide adequate nutrition,0.89,/user/user/document/image_934.jpg,2023-03-26 16:58:43,2022-03-07 22:19:40
+Spinach Downy Mildew,Poor Drainage,Apply bactericide,0.88,/user/user/document/image_957.jpg,2022-08-05 01:07:21,2022-02-19 06:50:43
+Armillaria Root Rot,Poor Drainage,Apply bactericide,0.92,/user/user/document/image_408.jpg,2023-02-15 03:40:10,2023-05-19 03:09:35
+Pepper Anthracnose,Pests,Apply bactericide,0.81,/user/user/document/image_698.jpg,2024-03-15 09:33:58,2022-06-24 12:57:55
+Blossom End Rot,Chemical Damage,Improve soil drainage,0.8,/user/user/document/image_860.jpg,2022-11-15 21:18:18,2024-01-12 10:47:55
+Leaf Blotch,Environmental Stress,Provide adequate nutrition,0.74,/user/user/document/image_624.jpg,2022-07-24 17:19:31,2023-03-19 05:31:19
+Rhizoctonia Root Rot,Pests,Provide adequate nutrition,0.79,/user/user/document/image_466.jpg,2024-02-03 05:36:42,2022-08-27 00:09:54
+White Mold,Fungal Infection,Apply bactericide,0.51,/user/user/document/image_443.jpg,2023-03-16 06:05:29,2023-04-28 15:56:37
+Angular Leaf Spot,Environmental Stress,Adjust watering schedule,0.66,/user/user/document/image_721.jpg,2022-06-15 14:00:58,2022-05-12 13:21:31
+Huanglongbing,Poor Drainage,Apply bactericide,0.52,/user/user/document/image_271.jpg,2022-10-02 04:18:20,2022-06-19 04:22:20
+Onion Downy Mildew,Environmental Stress,Improve soil drainage,0.7,/user/user/document/image_511.jpg,2023-01-15 06:41:49,2023-09-07 09:14:51
+Septoria Leaf Spot,Environmental Stress,Use resistant varieties,0.9,/user/user/document/image_405.jpg,2023-12-23 06:38:57,2022-01-21 15:01:31
+Late Blight,Poor Drainage,Improve soil drainage,0.64,/user/user/document/image_405.jpg,2023-04-13 04:41:29,2023-02-28 20:04:31
+Phomopsis Blight,Fungal Infection,Use proper sanitation practices,0.52,/user/user/document/image_812.jpg,2022-04-18 20:40:09,2022-04-22 09:34:17
+Gray Mold,Pests,Use resistant varieties,0.73,/user/user/document/image_607.jpg,2022-05-10 10:39:38,2023-02-10 15:03:08
+Apple Scab,Nutrient Deficiency,Provide adequate nutrition,0.74,/user/user/document/image_149.jpg,2024-02-20 07:30:35,2023-11-22 10:15:34
+Phomopsis Blight,Environmental Stress,Use fungicide,0.93,/user/user/document/image_540.jpg,2024-01-25 07:39:14,2023-12-07 21:47:21
+Brown Rot,Nutrient Deficiency,Adjust watering schedule,0.93,/user/user/document/image_413.jpg,2024-02-29 12:39:19,2023-08-09 05:42:13
+Corn Smut,Nutrient Deficiency,Use fungicide,0.86,/user/user/document/image_477.jpg,2022-02-08 07:22:03,2023-03-19 15:05:53
+Impatiens Necrotic Spot Virus,Bacterial Infection,Apply bactericide,0.91,/user/user/document/image_612.jpg,2023-11-29 14:20:39,2022-11-04 10:57:54
+Impatiens Necrotic Spot Virus,Fungal Infection,Use proper sanitation practices,0.78,/user/user/document/image_608.jpg,2022-03-09 00:30:53,2022-06-24 03:56:43
+Pepper Anthracnose,Chemical Damage,Use proper sanitation practices,0.96,/user/user/document/image_793.jpg,2023-05-06 03:26:12,2022-12-07 22:21:21
+Gray Leaf Spot,Viral Infection,Apply neem oil,0.64,/user/user/document/image_327.jpg,2023-06-11 02:23:13,2023-03-03 21:58:36
+Rhizoctonia Root Rot,Nutrient Deficiency,Control pests,0.54,/user/user/document/image_824.jpg,2022-09-29 19:06:36,2023-03-17 12:34:00
+Bacterial Streak,Environmental Stress,Adjust watering schedule,0.72,/user/user/document/image_405.jpg,2022-08-19 19:35:17,2023-05-27 06:16:51
+Onion Downy Mildew,Pests,Use proper sanitation practices,0.79,/user/user/document/image_978.jpg,2023-11-25 14:42:10,2022-12-17 02:32:54
+Squash Mosaic Virus,Chemical Damage,Adjust watering schedule,0.78,/user/user/document/image_782.jpg,2022-05-24 18:04:58,2023-10-23 15:24:26
+Watermelon Mosaic Virus,Chemical Damage,Provide adequate nutrition,0.64,/user/user/document/image_322.jpg,2023-09-02 11:57:44,2022-12-27 23:30:31
+Bacterial Blight,Chemical Damage,Improve soil drainage,0.69,/user/user/document/image_672.jpg,2024-04-05 14:31:57,2023-07-03 21:31:51
+Cercospora Leaf Spot,Pests,Use fungicide,0.55,/user/user/document/image_360.jpg,2022-06-27 07:02:54,2022-04-19 01:22:12
+Rice Blast,Nutrient Deficiency,Apply bactericide,0.85,/user/user/document/image_424.jpg,2022-01-04 06:22:15,2022-04-01 12:06:13
+Sooty Mold,Viral Infection,Control pests,0.8,/user/user/document/image_204.jpg,2024-02-25 05:18:24,2022-11-21 10:49:30
+Stemphylium Leaf Spot,Pests,Provide adequate nutrition,0.73,/user/user/document/image_903.jpg,2022-12-13 05:48:43,2022-01-01 09:58:35
+Rice Blast,Nutrient Deficiency,Adjust watering schedule,0.65,/user/user/document/image_355.jpg,2023-01-16 16:06:53,2022-02-27 14:56:17
+Late Blight,Pests,Use fungicide,0.95,/user/user/document/image_495.jpg,2023-10-15 18:21:38,2023-01-17 15:03:31
+Powdery Mildew,Fungal Infection,Apply bactericide,0.72,/user/user/document/image_25.jpg,2022-12-08 09:12:45,2023-05-16 08:12:36
+Powdery Mildew,Fungal Infection,Use proper sanitation practices,0.63,/user/user/document/image_55.jpg,2022-12-30 19:40:26,2024-02-13 05:08:43
+Crown Gall,Bacterial Infection,Use fungicide,0.67,/user/user/document/image_890.jpg,2022-03-21 02:06:08,2022-10-10 15:33:08
+Anthracnose,Environmental Stress,Control pests,0.57,/user/user/document/image_999.jpg,2024-02-16 18:23:43,2022-10-24 22:01:40
+Yellow Leaf Curl Virus,Pests,Use proper sanitation practices,0.55,/user/user/document/image_393.jpg,2022-10-21 18:53:15,2022-05-04 14:48:23
+Stem Rot,Pests,Use proper sanitation practices,0.56,/user/user/document/image_970.jpg,2024-03-20 07:36:04,2023-07-12 23:54:14
+Needle Blight,Nutrient Deficiency,Control pests,0.93,/user/user/document/image_661.jpg,2023-03-25 19:17:36,2022-01-11 23:17:28
+Cotton Root Rot,Chemical Damage,Use resistant varieties,0.99,/user/user/document/image_762.jpg,2022-07-19 14:36:29,2022-12-06 16:05:59
+Leaf Scorch,Chemical Damage,Provide adequate nutrition,0.59,/user/user/document/image_724.jpg,2024-01-10 00:54:23,2023-03-24 23:38:27
+Clubroot,Viral Infection,Use proper sanitation practices,0.55,/user/user/document/image_610.jpg,2022-02-26 09:49:22,2023-04-20 01:09:11
+Impatiens Necrotic Spot Virus,Pests,Improve soil drainage,0.74,/user/user/document/image_58.jpg,2022-10-26 03:45:46,2022-08-12 06:47:58
+Fusarium Wilt,Poor Drainage,Apply bactericide,0.53,/user/user/document/image_394.jpg,2022-07-11 22:08:00,2024-02-16 03:56:50
+Yellow Leaf Curl Virus,Nutrient Deficiency,Apply neem oil,0.7,/user/user/document/image_658.jpg,2024-03-20 06:44:37,2023-12-22 00:22:16
+Huanglongbing,Nutrient Deficiency,Use proper sanitation practices,0.8,/user/user/document/image_624.jpg,2022-09-29 08:07:58,2023-02-26 21:16:15
+Phomopsis Blight,Nutrient Deficiency,Remove infected leaves,0.91,/user/user/document/image_845.jpg,2023-07-04 09:24:58,2023-12-06 13:08:57
+Red Stele,Pests,Provide adequate nutrition,0.76,/user/user/document/image_658.jpg,2022-08-30 08:06:22,2022-05-18 00:31:32
+Root Knot Nematode,Viral Infection,Adjust watering schedule,0.95,/user/user/document/image_218.jpg,2022-04-23 05:48:24,2023-12-31 23:55:08
+Eggplant Verticillium Wilt,Bacterial Infection,Use resistant varieties,0.76,/user/user/document/image_197.jpg,2022-01-15 01:34:34,2023-07-24 00:31:38
+Needle Blight,Pests,Control pests,0.81,/user/user/document/image_480.jpg,2022-03-23 02:08:31,2023-05-10 22:47:55
+Gray Leaf Spot,Environmental Stress,Remove infected leaves,0.77,/user/user/document/image_336.jpg,2023-06-20 16:02:48,2024-03-04 11:49:16
+Leaf Curl,Bacterial Infection,Adjust watering schedule,0.85,/user/user/document/image_219.jpg,2022-10-20 16:05:48,2022-12-11 04:23:30
+Alternaria Leaf Spot,Viral Infection,Use proper sanitation practices,0.83,/user/user/document/image_56.jpg,2022-10-27 02:42:00,2022-08-23 06:45:12
+Bean Rust,Environmental Stress,Adjust watering schedule,0.91,/user/user/document/image_734.jpg,2024-01-21 08:20:22,2023-10-06 21:09:15
+Apple Scab,Chemical Damage,Control pests,0.5,/user/user/document/image_83.jpg,2023-04-14 05:22:42,2023-06-08 15:42:27
+Gray Mold,Poor Drainage,Provide adequate nutrition,0.94,/user/user/document/image_63.jpg,2024-05-01 10:06:53,2024-01-12 09:14:39
+Blue Mold,Nutrient Deficiency,Adjust watering schedule,0.88,/user/user/document/image_772.jpg,2022-04-18 11:19:01,2023-03-23 04:08:22
+Bacterial Blight,Bacterial Infection,Remove infected leaves,0.65,/user/user/document/image_702.jpg,2023-04-10 08:22:51,2022-11-06 05:32:50
+Squash Mosaic Virus,Nutrient Deficiency,Provide adequate nutrition,0.71,/user/user/document/image_579.jpg,2023-07-13 07:17:27,2022-08-29 18:53:48
+Fusarium Wilt,Bacterial Infection,Use fungicide,0.59,/user/user/document/image_562.jpg,2024-02-18 22:34:53,2024-01-29 23:41:58
+Early Blight,Chemical Damage,Provide adequate nutrition,0.79,/user/user/document/image_284.jpg,2022-09-23 08:36:35,2022-11-29 01:58:59
+Black Rot,Viral Infection,Apply neem oil,0.8,/user/user/document/image_805.jpg,2022-09-03 13:50:10,2022-01-09 03:26:39
+Verticillium Wilt,Viral Infection,Adjust watering schedule,0.92,/user/user/document/image_510.jpg,2023-10-21 09:01:15,2022-10-07 16:30:17
+Pepper Anthracnose,Viral Infection,Control pests,0.72,/user/user/document/image_852.jpg,2022-03-09 03:35:00,2023-09-29 20:13:32
+Brown Rot,Nutrient Deficiency,Use resistant varieties,0.62,/user/user/document/image_342.jpg,2022-03-12 09:13:29,2022-02-10 22:59:36
+Leaf Blotch,Viral Infection,Adjust watering schedule,0.68,/user/user/document/image_227.jpg,2023-02-01 13:20:43,2023-07-18 21:36:04
+Red Stele,Pests,Use resistant varieties,0.65,/user/user/document/image_766.jpg,2023-02-07 18:02:56,2022-11-15 19:47:07
+Mosaic Virus,Fungal Infection,Remove infected leaves,0.81,/user/user/document/image_279.jpg,2022-05-02 00:50:14,2023-05-23 11:13:16
+Citrus Greening,Bacterial Infection,Provide adequate nutrition,0.55,/user/user/document/image_601.jpg,2022-09-27 17:06:15,2022-07-12 07:12:45
+Citrus Canker,Pests,Provide adequate nutrition,0.82,/user/user/document/image_98.jpg,2023-08-19 11:55:32,2022-06-09 20:18:32
+Ascochyta Blight,Nutrient Deficiency,Remove infected leaves,0.67,/user/user/document/image_513.jpg,2024-03-17 13:25:09,2024-03-19 03:26:17
+Bacterial Streak,Viral Infection,Apply bactericide,0.68,/user/user/document/image_690.jpg,2023-10-02 03:55:25,2022-08-23 20:15:21
+Root Knot Nematode,Chemical Damage,Use fungicide,0.99,/user/user/document/image_294.jpg,2023-06-10 16:19:36,2022-09-07 08:17:54
+Cabbage Yellows,Pests,Remove infected leaves,0.7,/user/user/document/image_680.jpg,2023-05-05 18:37:21,2023-03-25 18:38:24
+Blossom End Rot,Chemical Damage,Provide adequate nutrition,0.62,/user/user/document/image_851.jpg,2023-09-25 03:20:21,2024-03-31 10:25:09
+Nematode Damage,Poor Drainage,Use proper sanitation practices,0.93,/user/user/document/image_712.jpg,2023-01-04 23:04:03,2022-07-25 01:24:20
+Blossom End Rot,Fungal Infection,Use resistant varieties,0.94,/user/user/document/image_73.jpg,2022-11-30 02:17:32,2023-08-14 06:11:04
+Pythium Root Rot,Bacterial Infection,Use proper sanitation practices,0.52,/user/user/document/image_100.jpg,2023-09-26 19:37:07,2023-03-06 18:41:07
+Bacterial Speck,Fungal Infection,Adjust watering schedule,0.87,/user/user/document/image_203.jpg,2024-01-24 06:55:39,2024-02-29 22:46:13
+Pythium Root Rot,Nutrient Deficiency,Use resistant varieties,0.55,/user/user/document/image_926.jpg,2022-09-16 13:33:46,2022-05-05 21:46:08
+Bean Common Mosaic Virus,Bacterial Infection,Control pests,0.96,/user/user/document/image_707.jpg,2023-08-20 00:21:13,2022-11-17 06:32:50
+Anthracnose,Nutrient Deficiency,Control pests,0.85,/user/user/document/image_501.jpg,2022-05-04 23:47:51,2023-03-14 05:31:03
+Bacterial Spot,Viral Infection,Improve soil drainage,0.67,/user/user/document/image_824.jpg,2023-06-10 16:42:18,2023-03-29 09:05:04
+Verticillium Wilt,Pests,Use resistant varieties,0.8,/user/user/document/image_68.jpg,2023-03-15 11:39:15,2022-10-21 17:26:08
+Zinc Deficiency,Poor Drainage,Provide adequate nutrition,0.93,/user/user/document/image_19.jpg,2023-05-29 11:52:51,2022-12-07 16:29:42
+Wheat Leaf Rust,Nutrient Deficiency,Provide adequate nutrition,0.72,/user/user/document/image_214.jpg,2022-07-01 20:58:07,2022-12-20 02:52:30
+Zinc Deficiency,Viral Infection,Remove infected leaves,0.58,/user/user/document/image_242.jpg,2022-12-16 04:01:24,2022-09-24 21:38:49
+Alternaria Leaf Spot,Poor Drainage,Use resistant varieties,0.56,/user/user/document/image_184.jpg,2023-07-15 22:07:47,2022-06-30 04:10:00
+Halo Blight,Environmental Stress,Use fungicide,0.57,/user/user/document/image_431.jpg,2023-11-13 14:13:30,2023-11-29 17:06:03
+Black Spot,Poor Drainage,Apply bactericide,0.95,/user/user/document/image_934.jpg,2024-03-15 23:14:42,2023-10-31 00:39:14
+Rust,Chemical Damage,Use resistant varieties,0.79,/user/user/document/image_711.jpg,2022-06-30 19:21:47,2022-05-16 19:04:47
+Pepper Anthracnose,Viral Infection,Apply neem oil,0.62,/user/user/document/image_460.jpg,2023-09-26 23:46:23,2023-05-25 17:03:13
+Eggplant Verticillium Wilt,Environmental Stress,Provide adequate nutrition,0.63,/user/user/document/image_609.jpg,2022-08-13 06:59:01,2024-02-16 16:42:24
+Phytophthora Blight,Fungal Infection,Apply neem oil,0.58,/user/user/document/image_782.jpg,2023-05-12 00:38:37,2023-04-03 16:23:41
+Leaf Rust,Bacterial Infection,Improve soil drainage,0.9,/user/user/document/image_99.jpg,2023-10-06 06:49:09,2022-12-04 08:20:28
+Rice Blast,Fungal Infection,Use resistant varieties,0.51,/user/user/document/image_159.jpg,2023-09-16 02:49:20,2023-12-27 00:00:32
+Apple Scab,Environmental Stress,Apply bactericide,0.96,/user/user/document/image_146.jpg,2023-10-25 20:11:15,2022-12-09 23:00:27
+Black Knot,Chemical Damage,Apply neem oil,0.88,/user/user/document/image_386.jpg,2023-11-11 03:36:36,2023-11-14 04:19:23
+Wheat Leaf Rust,Pests,Provide adequate nutrition,0.55,/user/user/document/image_673.jpg,2023-04-28 05:30:27,2023-04-30 19:56:11
+Blue Mold,Viral Infection,Remove infected leaves,0.55,/user/user/document/image_196.jpg,2023-08-12 16:52:21,2024-05-02 14:20:31
+Watermelon Mosaic Virus,Nutrient Deficiency,Improve soil drainage,0.79,/user/user/document/image_934.jpg,2022-05-09 14:04:12,2022-01-29 16:51:29
+Fusarium Wilt,Pests,Improve soil drainage,0.58,/user/user/document/image_776.jpg,2022-09-11 18:03:06,2022-05-19 19:59:18
+Bacterial Streak,Pests,Use resistant varieties,0.62,/user/user/document/image_589.jpg,2022-03-30 21:53:25,2023-08-16 03:35:32
+Black Heart,Chemical Damage,Apply neem oil,0.88,/user/user/document/image_521.jpg,2024-03-04 15:44:29,2022-09-28 23:35:01
+Onion Downy Mildew,Pests,Remove infected leaves,0.78,/user/user/document/image_933.jpg,2023-10-07 21:34:17,2023-12-07 19:41:21
+Dutch Elm Disease,Pests,Remove infected leaves,0.83,/user/user/document/image_515.jpg,2022-01-09 22:54:37,2023-03-11 17:50:52
+Blue Mold,Nutrient Deficiency,Adjust watering schedule,0.73,/user/user/document/image_699.jpg,2023-08-03 22:02:50,2023-07-04 09:06:29
+Septoria Leaf Spot,Poor Drainage,Remove infected leaves,0.66,/user/user/document/image_934.jpg,2023-03-09 02:52:35,2022-04-17 03:03:31
+Black Heart,Bacterial Infection,Control pests,0.86,/user/user/document/image_938.jpg,2022-10-15 10:43:20,2023-11-23 15:16:13
+Blossom End Rot,Chemical Damage,Adjust watering schedule,0.92,/user/user/document/image_536.jpg,2023-07-12 15:47:53,2022-06-23 06:41:00
+Sclerotinia Stem Rot,Viral Infection,Remove infected leaves,0.84,/user/user/document/image_458.jpg,2022-02-27 03:24:03,2022-07-31 13:34:00
+Verticillium Wilt,Viral Infection,Apply neem oil,0.77,/user/user/document/image_250.jpg,2023-11-22 05:20:09,2023-08-16 02:49:48
+Root Knot Nematode,Fungal Infection,Use resistant varieties,0.55,/user/user/document/image_52.jpg,2022-10-22 09:30:51,2024-02-20 01:12:58
+Gummy Stem Blight,Environmental Stress,Use fungicide,0.84,/user/user/document/image_962.jpg,2022-04-25 02:04:21,2023-08-09 22:40:39
+Cucumber Mosaic Virus,Environmental Stress,Use proper sanitation practices,0.88,/user/user/document/image_351.jpg,2022-05-19 20:03:26,2023-07-28 20:46:51
+Corky Root Rot,Poor Drainage,Use fungicide,0.97,/user/user/document/image_657.jpg,2023-03-16 00:33:24,2023-03-30 17:26:41
+Cabbage Yellows,Pests,Use proper sanitation practices,0.83,/user/user/document/image_169.jpg,2023-09-03 03:52:56,2022-03-09 06:30:37
+Bacterial Wilt,Nutrient Deficiency,Remove infected leaves,0.86,/user/user/document/image_354.jpg,2022-06-29 14:32:33,2022-01-02 10:59:27
+Early Blight,Fungal Infection,Remove infected leaves,0.64,/user/user/document/image_434.jpg,2022-06-08 06:37:52,2023-03-17 13:19:18
+Cucumber Mosaic Virus,Nutrient Deficiency,Apply bactericide,0.88,/user/user/document/image_70.jpg,2022-03-24 00:55:09,2022-10-18 22:22:13
+Cabbage Yellows,Bacterial Infection,Use resistant varieties,0.94,/user/user/document/image_806.jpg,2023-04-06 11:26:21,2023-05-13 17:42:58
+Sclerotinia Stem Rot,Environmental Stress,Use resistant varieties,0.64,/user/user/document/image_378.jpg,2022-09-23 17:44:27,2022-02-05 13:07:09
+Brown Patch,Bacterial Infection,Use proper sanitation practices,0.61,/user/user/document/image_188.jpg,2024-04-22 06:07:33,2022-03-14 00:40:14
+Cabbage Yellows,Fungal Infection,Use fungicide,0.91,/user/user/document/image_57.jpg,2022-06-03 20:08:52,2024-01-27 23:03:43
+Watermelon Mosaic Virus,Nutrient Deficiency,Use resistant varieties,0.77,/user/user/document/image_499.jpg,2024-03-10 01:40:10,2023-03-09 07:54:05
+Gray Mold,Fungal Infection,Remove infected leaves,0.72,/user/user/document/image_751.jpg,2023-06-11 23:26:15,2024-05-14 12:42:33
+Botrytis Blight,Fungal Infection,Provide adequate nutrition,0.55,/user/user/document/image_175.jpg,2023-12-28 19:14:52,2022-03-09 11:00:41
+Blue Mold,Nutrient Deficiency,Apply bactericide,0.68,/user/user/document/image_277.jpg,2024-02-25 22:11:24,2023-06-12 12:52:11
+Canker,Bacterial Infection,Remove infected leaves,0.84,/user/user/document/image_905.jpg,2023-06-13 23:41:00,2022-08-18 20:12:06
+Bacterial Streak,Environmental Stress,Provide adequate nutrition,0.63,/user/user/document/image_132.jpg,2022-01-14 09:05:21,2023-10-13 20:55:32
+Bacterial Speck,Nutrient Deficiency,Apply neem oil,0.54,/user/user/document/image_969.jpg,2022-02-08 00:38:56,2023-08-31 02:19:50
+Damping-Off,Environmental Stress,Improve soil drainage,0.79,/user/user/document/image_722.jpg,2022-08-14 03:55:36,2023-11-19 03:46:23
+Apple Scab,Pests,Adjust watering schedule,0.52,/user/user/document/image_259.jpg,2023-03-07 17:57:11,2022-05-25 19:55:31
+Apple Scab,Fungal Infection,Provide adequate nutrition,0.68,/user/user/document/image_444.jpg,2023-11-23 22:10:00,2022-01-15 03:52:07
+Huanglongbing,Environmental Stress,Provide adequate nutrition,0.86,/user/user/document/image_191.jpg,2022-12-19 14:50:29,2022-09-10 05:16:42
+Cotton Root Rot,Fungal Infection,Use fungicide,0.71,/user/user/document/image_309.jpg,2022-02-08 08:11:34,2023-09-30 19:09:34
+Citrus Greening,Nutrient Deficiency,Improve soil drainage,0.79,/user/user/document/image_763.jpg,2022-10-28 21:52:50,2023-05-30 07:53:29
+Kale Black Rot,Bacterial Infection,Remove infected leaves,0.71,/user/user/document/image_285.jpg,2023-05-04 19:11:03,2022-03-28 07:47:13
+Rhizoctonia Root Rot,Pests,Provide adequate nutrition,0.53,/user/user/document/image_784.jpg,2023-10-29 21:36:41,2022-09-14 17:47:40
+Late Blight,Viral Infection,Provide adequate nutrition,0.93,/user/user/document/image_546.jpg,2023-10-19 07:48:07,2024-04-16 19:35:07
+Kale Black Rot,Bacterial Infection,Provide adequate nutrition,0.76,/user/user/document/image_785.jpg,2022-09-30 19:43:27,2024-02-28 04:34:20
+Damping-Off,Nutrient Deficiency,Control pests,0.52,/user/user/document/image_75.jpg,2022-10-23 03:58:55,2022-04-27 01:30:34
+Rhizoctonia Root Rot,Nutrient Deficiency,Use resistant varieties,0.76,/user/user/document/image_801.jpg,2024-02-04 00:33:11,2022-11-27 20:08:45
+Stemphylium Leaf Spot,Environmental Stress,Adjust watering schedule,0.92,/user/user/document/image_199.jpg,2023-04-29 12:17:11,2023-08-03 02:14:44
+Rhizoctonia Root Rot,Fungal Infection,Provide adequate nutrition,0.68,/user/user/document/image_524.jpg,2022-01-28 12:00:03,2022-06-02 13:07:13
+Gray Mold,Bacterial Infection,Apply bactericide,0.99,/user/user/document/image_412.jpg,2022-09-29 01:32:11,2022-05-16 06:46:29
+Leaf Blotch,Bacterial Infection,Control pests,0.62,/user/user/document/image_281.jpg,2023-02-16 21:01:05,2023-04-09 23:17:56
+Wheat Leaf Rust,Bacterial Infection,Use proper sanitation practices,0.56,/user/user/document/image_400.jpg,2024-01-02 04:13:37,2022-09-26 20:50:33
+Peanut Leaf Spot,Poor Drainage,Use proper sanitation practices,0.62,/user/user/document/image_936.jpg,2024-04-02 01:08:45,2022-09-23 04:56:48
+Phomopsis Blight,Bacterial Infection,Improve soil drainage,0.8,/user/user/document/image_441.jpg,2022-03-15 02:51:22,2022-09-14 08:28:26
+Bacterial Wilt,Pests,Provide adequate nutrition,0.56,/user/user/document/image_661.jpg,2022-10-12 00:18:00,2022-12-15 11:00:25
+Basal Stem Rot,Bacterial Infection,Apply bactericide,0.62,/user/user/document/image_697.jpg,2023-09-14 04:05:29,2023-07-11 08:10:34
+Bacterial Canker,Bacterial Infection,Control pests,0.91,/user/user/document/image_262.jpg,2023-02-27 09:17:02,2023-07-01 19:08:24
+Apple Scab,Environmental Stress,Control pests,0.74,/user/user/document/image_308.jpg,2023-08-15 02:41:09,2023-03-03 08:45:21
+Rust,Poor Drainage,Apply neem oil,0.84,/user/user/document/image_368.jpg,2024-03-05 06:58:42,2023-02-12 15:51:18
+Fire Blight,Fungal Infection,Remove infected leaves,0.8,/user/user/document/image_137.jpg,2022-02-16 02:42:00,2023-11-12 09:51:00
+Kale Black Rot,Pests,Remove infected leaves,0.68,/user/user/document/image_645.jpg,2022-12-26 17:03:58,2022-01-17 13:09:11
+Gray Leaf Spot,Fungal Infection,Use proper sanitation practices,0.77,/user/user/document/image_732.jpg,2022-11-17 15:56:11,2022-07-28 08:47:10
+White Rust,Viral Infection,Control pests,0.51,/user/user/document/image_758.jpg,2024-01-09 18:57:21,2022-05-30 11:50:25
+Stemphylium Leaf Spot,Pests,Apply neem oil,0.81,/user/user/document/image_7.jpg,2024-02-01 11:37:40,2023-08-10 06:24:44
+Red Stele,Viral Infection,Apply bactericide,0.52,/user/user/document/image_781.jpg,2022-12-20 07:24:55,2024-03-23 12:59:55
+Leaf Blotch,Viral Infection,Use proper sanitation practices,0.89,/user/user/document/image_107.jpg,2024-01-05 05:44:59,2022-08-07 01:03:16
+Basal Stem Rot,Environmental Stress,Use proper sanitation practices,0.54,/user/user/document/image_354.jpg,2023-09-26 10:58:54,2022-06-23 07:49:26
+Stemphylium Leaf Spot,Environmental Stress,Adjust watering schedule,0.72,/user/user/document/image_872.jpg,2023-03-29 15:45:10,2024-04-03 00:22:19
+Halo Blight,Pests,Improve soil drainage,0.7,/user/user/document/image_707.jpg,2022-11-13 05:20:29,2022-05-28 16:57:56
+Gray Mold,Chemical Damage,Improve soil drainage,0.53,/user/user/document/image_346.jpg,2022-06-22 01:01:52,2023-11-26 05:14:39
+Blue Mold,Nutrient Deficiency,Provide adequate nutrition,0.68,/user/user/document/image_71.jpg,2023-12-20 21:00:33,2023-06-18 06:43:11
+White Mold,Environmental Stress,Provide adequate nutrition,0.52,/user/user/document/image_283.jpg,2023-04-07 16:30:08,2023-03-02 00:45:36
+Leaf Blotch,Nutrient Deficiency,Apply neem oil,0.64,/user/user/document/image_306.jpg,2023-05-31 07:46:07,2024-04-30 11:42:45
+Leaf Curl,Pests,Use fungicide,0.59,/user/user/document/image_791.jpg,2023-10-27 06:03:53,2022-05-13 14:44:54
+Phytophthora Blight,Nutrient Deficiency,Apply neem oil,0.55,/user/user/document/image_957.jpg,2023-05-30 16:27:57,2024-03-13 18:48:37
+Blossom End Rot,Chemical Damage,Use fungicide,0.83,/user/user/document/image_281.jpg,2022-12-12 18:12:26,2022-03-10 16:58:37
+Ascochyta Blight,Poor Drainage,Improve soil drainage,0.73,/user/user/document/image_411.jpg,2023-12-23 18:33:34,2023-06-19 08:14:31
+Dutch Elm Disease,Nutrient Deficiency,Use fungicide,0.74,/user/user/document/image_681.jpg,2023-04-28 00:10:52,2022-11-30 02:23:05
+Citrus Canker,Fungal Infection,Adjust watering schedule,0.89,/user/user/document/image_527.jpg,2023-07-11 14:24:16,2023-07-03 14:23:55
+Powdery Mildew,Nutrient Deficiency,Use fungicide,0.8,/user/user/document/image_903.jpg,2024-02-26 20:03:16,2022-05-16 18:03:27
+Pink Root,Poor Drainage,Control pests,0.65,/user/user/document/image_717.jpg,2024-04-16 05:20:58,2022-08-02 01:44:15
+Brown Rot,Environmental Stress,Provide adequate nutrition,0.82,/user/user/document/image_603.jpg,2022-06-07 14:41:10,2023-08-30 07:47:40
+Rust,Fungal Infection,Control pests,0.51,/user/user/document/image_910.jpg,2022-08-15 23:40:03,2023-09-21 16:40:12
+Basal Stem Rot,Poor Drainage,Use proper sanitation practices,0.62,/user/user/document/image_508.jpg,2023-06-01 01:49:58,2023-08-10 20:58:58
+Huanglongbing,Nutrient Deficiency,Apply neem oil,0.78,/user/user/document/image_176.jpg,2022-06-22 06:25:39,2022-09-11 19:35:43
+Cucumber Mosaic Virus,Poor Drainage,Control pests,0.57,/user/user/document/image_280.jpg,2023-04-17 01:25:04,2023-12-15 01:52:40
+Cabbage Yellows,Environmental Stress,Apply bactericide,0.72,/user/user/document/image_958.jpg,2022-10-23 04:31:48,2023-03-17 05:29:04
+Bacterial Spot,Bacterial Infection,Adjust watering schedule,0.95,/user/user/document/image_973.jpg,2023-04-10 21:27:02,2024-05-08 15:40:02
+Cercospora Leaf Spot,Nutrient Deficiency,Use fungicide,0.52,/user/user/document/image_739.jpg,2022-10-14 22:03:58,2024-03-11 08:58:59
+Basal Stem Rot,Nutrient Deficiency,Use proper sanitation practices,0.92,/user/user/document/image_321.jpg,2022-04-12 02:07:21,2023-08-25 13:42:59
+Pink Root,Pests,Improve soil drainage,0.89,/user/user/document/image_999.jpg,2022-08-25 09:01:27,2022-03-04 17:59:53
+Downy Mildew,Pests,Adjust watering schedule,0.61,/user/user/document/image_338.jpg,2022-05-27 11:21:14,2022-06-05 15:25:39
+Rhizoctonia Root Rot,Nutrient Deficiency,Adjust watering schedule,0.87,/user/user/document/image_273.jpg,2022-07-09 15:24:54,2024-01-26 18:43:09
+Spinach Downy Mildew,Chemical Damage,Apply neem oil,0.76,/user/user/document/image_64.jpg,2023-11-01 01:32:20,2022-05-29 03:47:17
+Leaf Scorch,Pests,Control pests,0.96,/user/user/document/image_879.jpg,2023-12-03 16:13:06,2024-01-24 14:11:49
+Kale Black Rot,Pests,Use proper sanitation practices,0.66,/user/user/document/image_76.jpg,2024-02-13 18:07:56,2023-06-08 23:22:20
+Leaf Curl,Poor Drainage,Provide adequate nutrition,0.96,/user/user/document/image_894.jpg,2023-05-08 14:39:24,2024-02-16 05:05:49
+Watermelon Mosaic Virus,Pests,Remove infected leaves,0.83,/user/user/document/image_395.jpg,2022-05-14 06:28:36,2023-12-06 03:28:12
+Leaf Curl,Poor Drainage,Remove infected leaves,0.83,/user/user/document/image_78.jpg,2022-06-30 08:06:40,2022-12-13 01:59:36
+Alternaria Leaf Spot,Poor Drainage,Improve soil drainage,0.63,/user/user/document/image_45.jpg,2023-09-20 15:33:22,2022-10-22 00:07:31
+Armillaria Root Rot,Chemical Damage,Remove infected leaves,0.9,/user/user/document/image_627.jpg,2023-12-03 19:05:31,2024-01-06 22:14:42
+Spinach Downy Mildew,Viral Infection,Use fungicide,0.94,/user/user/document/image_789.jpg,2023-10-20 22:20:46,2023-06-29 04:09:26
+Cercospora Leaf Spot,Fungal Infection,Use proper sanitation practices,0.87,/user/user/document/image_64.jpg,2022-08-27 06:58:54,2023-01-09 08:49:32
+Verticillium Wilt,Poor Drainage,Use resistant varieties,0.79,/user/user/document/image_312.jpg,2022-12-21 09:31:41,2022-12-09 22:21:01
+Ergot,Bacterial Infection,Apply bactericide,0.81,/user/user/document/image_234.jpg,2022-12-12 08:15:48,2023-01-25 03:51:53
+Clubroot,Fungal Infection,Use resistant varieties,0.61,/user/user/document/image_785.jpg,2023-05-02 16:50:58,2022-11-11 02:18:14
+Citrus Canker,Chemical Damage,Apply neem oil,0.8,/user/user/document/image_834.jpg,2023-09-24 11:34:45,2023-12-23 09:32:51
+Bacterial Speck,Pests,Remove infected leaves,0.61,/user/user/document/image_84.jpg,2024-04-29 10:06:45,2023-02-25 01:44:36
+Verticillium Wilt,Chemical Damage,Use proper sanitation practices,0.53,/user/user/document/image_162.jpg,2023-12-18 10:03:40,2022-10-07 10:19:22
+White Rust,Fungal Infection,Apply neem oil,0.95,/user/user/document/image_35.jpg,2022-02-16 21:27:46,2023-08-19 17:27:43
+Bacterial Streak,Bacterial Infection,Control pests,0.76,/user/user/document/image_378.jpg,2024-01-20 09:32:14,2022-04-09 22:14:44
+Black Knot,Environmental Stress,Control pests,0.81,/user/user/document/image_412.jpg,2022-10-17 23:58:30,2022-07-30 23:30:07
+Bean Common Mosaic Virus,Bacterial Infection,Apply neem oil,0.92,/user/user/document/image_351.jpg,2022-02-17 14:11:15,2023-10-09 22:26:38
+Brown Rot,Environmental Stress,Use fungicide,0.84,/user/user/document/image_466.jpg,2023-09-17 05:15:42,2023-07-15 22:51:46
+Potato Scab,Chemical Damage,Provide adequate nutrition,0.77,/user/user/document/image_432.jpg,2024-04-08 17:06:29,2024-04-03 01:09:43
+Black Knot,Poor Drainage,Improve soil drainage,0.87,/user/user/document/image_224.jpg,2024-03-19 21:58:06,2023-08-29 12:28:00
+Pythium Root Rot,Bacterial Infection,Provide adequate nutrition,0.59,/user/user/document/image_86.jpg,2022-03-27 04:53:14,2024-02-23 17:36:00
+Black Spot,Pests,Adjust watering schedule,0.72,/user/user/document/image_677.jpg,2022-07-04 13:17:09,2023-06-05 19:57:32
+Onion Downy Mildew,Bacterial Infection,Use proper sanitation practices,0.97,/user/user/document/image_989.jpg,2022-03-20 05:50:47,2024-04-18 05:57:31
+Gummy Stem Blight,Chemical Damage,Use fungicide,0.69,/user/user/document/image_745.jpg,2022-03-07 14:28:06,2022-12-20 01:06:46
+Cucumber Mosaic Virus,Bacterial Infection,Provide adequate nutrition,0.51,/user/user/document/image_470.jpg,2022-08-11 11:31:39,2023-03-08 09:04:15
+Pink Root,Pests,Control pests,0.52,/user/user/document/image_398.jpg,2023-05-21 18:03:49,2023-07-15 00:37:19
+Ascochyta Blight,Nutrient Deficiency,Use resistant varieties,0.55,/user/user/document/image_97.jpg,2022-11-08 01:15:29,2023-01-16 12:27:53
+Pink Root,Fungal Infection,Apply bactericide,0.86,/user/user/document/image_694.jpg,2023-04-03 21:57:01,2023-09-06 12:52:07
+Hydrangea Rust,Bacterial Infection,Use fungicide,0.85,/user/user/document/image_474.jpg,2023-02-04 16:46:53,2023-07-26 01:11:44
+Crown Gall,Pests,Control pests,0.71,/user/user/document/image_947.jpg,2023-07-03 20:37:20,2022-10-05 16:10:49
+Verticillium Wilt,Fungal Infection,Use fungicide,0.61,/user/user/document/image_511.jpg,2022-09-01 17:27:06,2024-01-15 19:15:03
+Bacterial Blight,Pests,Apply bactericide,0.79,/user/user/document/image_978.jpg,2022-07-30 04:22:23,2022-02-26 21:05:47
+Impatiens Necrotic Spot Virus,Viral Infection,Apply bactericide,0.61,/user/user/document/image_531.jpg,2022-07-02 23:26:41,2022-12-12 22:55:36
+Stem Rust,Poor Drainage,Apply bactericide,0.86,/user/user/document/image_859.jpg,2023-03-06 16:54:04,2022-05-31 14:59:27
+Stem Rot,Chemical Damage,Control pests,0.61,/user/user/document/image_627.jpg,2022-10-06 21:18:46,2024-03-17 14:22:42
+Sclerotinia Stem Rot,Poor Drainage,Use proper sanitation practices,0.85,/user/user/document/image_831.jpg,2023-09-27 12:09:54,2023-10-02 12:21:48
+Citrus Canker,Viral Infection,Use resistant varieties,0.72,/user/user/document/image_684.jpg,2023-05-22 13:09:04,2023-03-20 18:18:16
+Blossom End Rot,Poor Drainage,Control pests,0.85,/user/user/document/image_559.jpg,2022-05-29 08:52:56,2022-06-28 03:32:48
+Bacterial Canker,Nutrient Deficiency,Use fungicide,0.96,/user/user/document/image_334.jpg,2023-02-26 12:26:06,2022-04-23 14:42:21
+Leaf Blotch,Bacterial Infection,Improve soil drainage,0.77,/user/user/document/image_427.jpg,2023-02-06 18:35:16,2022-03-16 12:25:09
+Phytophthora Blight,Chemical Damage,Use fungicide,0.91,/user/user/document/image_438.jpg,2022-07-22 04:27:12,2024-04-21 22:47:12
+Melon Necrotic Spot Virus,Poor Drainage,Apply bactericide,0.55,/user/user/document/image_591.jpg,2023-12-17 15:54:33,2022-10-23 03:24:49
+Anthracnose,Viral Infection,Provide adequate nutrition,0.57,/user/user/document/image_898.jpg,2022-10-07 00:06:36,2024-02-03 23:13:05
+Sooty Mold,Environmental Stress,Provide adequate nutrition,0.69,/user/user/document/image_606.jpg,2022-03-11 19:17:02,2022-05-18 13:52:09
+Gray Mold,Fungal Infection,Apply bactericide,0.93,/user/user/document/image_554.jpg,2022-10-02 05:13:33,2022-09-20 09:20:19
+Fusarium Wilt,Chemical Damage,Use resistant varieties,0.86,/user/user/document/image_893.jpg,2022-12-27 02:18:22,2023-01-24 05:27:18
+Black Rot,Chemical Damage,Provide adequate nutrition,0.91,/user/user/document/image_992.jpg,2024-02-19 15:38:34,2024-01-24 03:42:50
+Fusarium Wilt,Chemical Damage,Remove infected leaves,0.88,/user/user/document/image_276.jpg,2023-06-22 11:18:46,2024-02-08 23:09:45
+Sclerotinia Stem Rot,Chemical Damage,Use fungicide,0.56,/user/user/document/image_262.jpg,2022-04-28 21:47:59,2024-05-02 11:38:22
+Anthracnose Fruit Rot,Chemical Damage,Control pests,0.52,/user/user/document/image_304.jpg,2022-02-12 10:56:36,2022-06-27 10:42:50
+Botrytis Blight,Bacterial Infection,Improve soil drainage,0.83,/user/user/document/image_180.jpg,2022-05-29 22:11:30,2023-01-05 14:32:28
+Sooty Mold,Nutrient Deficiency,Control pests,0.59,/user/user/document/image_833.jpg,2023-01-17 04:29:04,2023-03-13 14:23:37
+Bean Common Mosaic Virus,Pests,Apply bactericide,0.77,/user/user/document/image_383.jpg,2023-07-31 09:32:19,2022-05-20 23:39:44
+Rice Blast,Pests,Provide adequate nutrition,0.52,/user/user/document/image_403.jpg,2022-12-05 21:49:20,2022-12-05 06:11:39
+Potato Scab,Bacterial Infection,Apply bactericide,0.56,/user/user/document/image_937.jpg,2022-05-26 21:52:17,2022-09-08 01:21:54
+Spinach Downy Mildew,Environmental Stress,Apply bactericide,0.59,/user/user/document/image_641.jpg,2023-04-24 20:02:44,2024-03-11 05:51:55
+Corn Smut,Environmental Stress,Apply bactericide,0.58,/user/user/document/image_909.jpg,2022-02-23 19:46:19,2022-10-14 09:29:42
+Septoria Leaf Spot,Viral Infection,Apply bactericide,0.63,/user/user/document/image_454.jpg,2024-01-29 20:09:31,2022-11-29 16:57:55
+Potato Scab,Chemical Damage,Apply neem oil,0.97,/user/user/document/image_866.jpg,2023-07-23 04:04:58,2023-05-26 22:43:59
+Blue Mold,Bacterial Infection,Remove infected leaves,0.56,/user/user/document/image_198.jpg,2023-12-24 11:37:21,2024-03-17 09:38:30
+Squash Mosaic Virus,Poor Drainage,Apply neem oil,0.77,/user/user/document/image_370.jpg,2022-03-30 01:04:53,2022-04-17 04:43:22
+Peach Leaf Curl,Viral Infection,Apply neem oil,0.53,/user/user/document/image_353.jpg,2023-02-12 19:45:30,2024-03-29 17:50:42
+Pink Root,Environmental Stress,Improve soil drainage,0.68,/user/user/document/image_247.jpg,2024-04-11 08:19:14,2023-03-09 19:02:45
+Spinach Downy Mildew,Environmental Stress,Adjust watering schedule,0.7,/user/user/document/image_560.jpg,2022-02-13 17:00:01,2023-05-25 04:47:28
+Verticillium Wilt,Chemical Damage,Improve soil drainage,0.66,/user/user/document/image_695.jpg,2022-01-13 11:23:34,2023-04-18 06:44:25
+Sooty Mold,Pests,Use resistant varieties,0.76,/user/user/document/image_876.jpg,2023-01-14 05:33:19,2023-03-07 06:02:35
+Black Heart,Pests,Use proper sanitation practices,0.82,/user/user/document/image_285.jpg,2022-10-06 22:23:57,2022-08-03 03:37:15
+Downy Mildew,Pests,Provide adequate nutrition,0.54,/user/user/document/image_784.jpg,2022-01-09 17:06:40,2022-05-11 09:46:40
+Verticillium Wilt,Environmental Stress,Use proper sanitation practices,0.83,/user/user/document/image_793.jpg,2023-02-25 07:01:07,2024-03-11 06:42:57
+Bacterial Blight,Pests,Provide adequate nutrition,0.88,/user/user/document/image_234.jpg,2023-09-15 10:08:12,2022-12-17 01:36:12
+Armillaria Root Rot,Fungal Infection,Apply bactericide,0.89,/user/user/document/image_252.jpg,2022-09-29 12:26:02,2022-04-21 11:57:21
+Gray Mold,Chemical Damage,Use fungicide,0.96,/user/user/document/image_100.jpg,2023-07-15 04:57:03,2022-05-22 17:22:43
+Potato Scab,Bacterial Infection,Control pests,0.6,/user/user/document/image_975.jpg,2024-03-18 10:41:17,2023-04-16 03:26:05
+Fusarium Wilt,Fungal Infection,Use fungicide,0.78,/user/user/document/image_520.jpg,2022-09-02 06:24:03,2023-02-23 05:55:52
+Impatiens Necrotic Spot Virus,Viral Infection,Provide adequate nutrition,1.0,/user/user/document/image_392.jpg,2023-08-10 05:36:47,2022-09-15 14:17:48
+Crown Gall,Viral Infection,Remove infected leaves,1.0,/user/user/document/image_639.jpg,2022-06-23 05:53:21,2023-04-26 00:07:36
+Ascochyta Blight,Nutrient Deficiency,Apply bactericide,0.81,/user/user/document/image_555.jpg,2022-11-17 22:04:47,2023-10-17 15:43:02
+Clubroot,Chemical Damage,Use proper sanitation practices,0.93,/user/user/document/image_377.jpg,2022-07-17 10:45:37,2023-09-09 10:07:16
+Stem Rust,Fungal Infection,Improve soil drainage,0.71,/user/user/document/image_174.jpg,2022-08-31 19:18:15,2024-04-05 09:40:38
+Leaf Blotch,Environmental Stress,Improve soil drainage,0.99,/user/user/document/image_128.jpg,2022-04-26 16:14:00,2023-02-25 08:30:26
+Squash Mosaic Virus,Nutrient Deficiency,Use proper sanitation practices,0.66,/user/user/document/image_532.jpg,2023-09-08 15:09:59,2022-06-18 20:25:29
+Zinc Deficiency,Fungal Infection,Provide adequate nutrition,0.61,/user/user/document/image_705.jpg,2023-04-02 12:27:45,2023-02-27 10:05:41
+Nematode Damage,Bacterial Infection,Provide adequate nutrition,0.69,/user/user/document/image_242.jpg,2023-06-07 03:06:23,2023-08-24 03:32:36
+Impatiens Necrotic Spot Virus,Fungal Infection,Apply neem oil,0.6,/user/user/document/image_51.jpg,2023-09-17 17:34:19,2023-08-19 01:40:57
+Pepper Anthracnose,Environmental Stress,Adjust watering schedule,0.54,/user/user/document/image_983.jpg,2024-01-10 05:41:57,2023-04-19 01:34:21
+Corn Smut,Poor Drainage,Control pests,0.74,/user/user/document/image_188.jpg,2023-11-19 00:41:48,2022-02-01 20:11:00
+Citrus Canker,Poor Drainage,Use resistant varieties,0.59,/user/user/document/image_710.jpg,2023-09-16 11:15:41,2022-03-26 15:00:06
+Gray Mold,Chemical Damage,Adjust watering schedule,0.6,/user/user/document/image_431.jpg,2024-05-06 14:23:26,2022-08-07 19:03:11
+Rice Blast,Fungal Infection,Apply bactericide,0.78,/user/user/document/image_927.jpg,2024-02-01 23:47:50,2023-07-12 01:16:11
+Bacterial Blight,Bacterial Infection,Apply neem oil,0.64,/user/user/document/image_382.jpg,2023-06-19 10:06:17,2023-10-05 11:28:50
+Peanut Leaf Spot,Environmental Stress,Adjust watering schedule,0.51,/user/user/document/image_286.jpg,2022-01-21 10:12:44,2022-10-08 13:08:11
+Tomato Spotted Wilt Virus,Environmental Stress,Improve soil drainage,0.92,/user/user/document/image_692.jpg,2024-01-07 19:27:25,2023-04-26 11:58:33
+Nematode Damage,Poor Drainage,Remove infected leaves,0.79,/user/user/document/image_338.jpg,2022-08-28 10:37:22,2023-09-05 15:55:17
+Phomopsis Blight,Poor Drainage,Use proper sanitation practices,0.58,/user/user/document/image_755.jpg,2022-05-17 12:17:16,2022-06-30 02:05:59
+Black Rot,Viral Infection,Use fungicide,0.75,/user/user/document/image_613.jpg,2023-07-01 12:39:47,2022-02-28 10:16:15
+Anthracnose Fruit Rot,Bacterial Infection,Use resistant varieties,0.52,/user/user/document/image_620.jpg,2023-04-14 08:26:42,2024-04-19 03:11:30
+Gray Mold,Viral Infection,Use fungicide,0.83,/user/user/document/image_610.jpg,2024-03-10 11:04:26,2022-02-04 14:44:19
+Armillaria Root Rot,Environmental Stress,Apply neem oil,0.88,/user/user/document/image_368.jpg,2023-11-13 23:37:28,2022-06-27 02:59:10
+Scab,Pests,Provide adequate nutrition,0.94,/user/user/document/image_116.jpg,2023-04-03 09:48:38,2022-10-31 16:24:38
+Fire Blight,Bacterial Infection,Provide adequate nutrition,0.97,/user/user/document/image_519.jpg,2023-06-09 20:24:41,2024-03-15 07:53:14
+Late Blight,Fungal Infection,Use fungicide,0.59,/user/user/document/image_850.jpg,2024-03-04 02:32:52,2023-11-09 01:54:31
+Phytophthora Blight,Viral Infection,Use proper sanitation practices,0.66,/user/user/document/image_184.jpg,2022-09-19 19:51:29,2022-11-14 12:45:23
+Peanut Leaf Spot,Pests,Apply neem oil,0.94,/user/user/document/image_402.jpg,2022-04-16 12:36:35,2022-11-15 06:01:41
+Bacterial Blight,Pests,Use resistant varieties,0.68,/user/user/document/image_146.jpg,2023-12-23 02:03:36,2022-03-25 23:51:38
+Bacterial Wilt,Viral Infection,Control pests,0.63,/user/user/document/image_21.jpg,2023-11-24 08:31:56,2023-02-25 19:35:36
+Root Knot Nematode,Bacterial Infection,Use resistant varieties,0.6,/user/user/document/image_935.jpg,2022-08-03 08:09:04,2022-02-05 06:41:45
+Yellow Leaf Curl Virus,Viral Infection,Apply bactericide,0.58,/user/user/document/image_200.jpg,2024-04-17 19:25:56,2022-09-01 01:49:51
+Peanut Leaf Spot,Poor Drainage,Remove infected leaves,0.54,/user/user/document/image_35.jpg,2023-01-10 11:13:31,2023-11-07 04:39:28
+Gummy Stem Blight,Fungal Infection,Use resistant varieties,0.64,/user/user/document/image_118.jpg,2023-08-24 22:33:38,2022-04-03 12:51:28
+Eggplant Verticillium Wilt,Pests,Remove infected leaves,0.81,/user/user/document/image_491.jpg,2022-06-26 03:21:41,2024-05-09 08:41:03
+Canker,Bacterial Infection,Apply neem oil,0.89,/user/user/document/image_2.jpg,2023-02-23 13:27:34,2023-10-11 17:18:54
+Tomato Spotted Wilt Virus,Chemical Damage,Adjust watering schedule,0.74,/user/user/document/image_546.jpg,2022-12-16 12:46:24,2023-07-05 16:19:23
+Ascochyta Blight,Chemical Damage,Control pests,0.75,/user/user/document/image_232.jpg,2023-09-18 08:33:32,2022-05-12 07:19:06
+Hydrangea Rust,Bacterial Infection,Use fungicide,0.59,/user/user/document/image_237.jpg,2023-07-27 23:37:08,2022-08-28 14:56:45
+Brown Patch,Nutrient Deficiency,Use fungicide,0.58,/user/user/document/image_246.jpg,2022-05-06 03:41:18,2024-01-02 04:06:39
+Cucumber Mosaic Virus,Environmental Stress,Adjust watering schedule,0.78,/user/user/document/image_299.jpg,2023-04-07 13:28:28,2022-03-24 12:50:01
+Kale Black Rot,Environmental Stress,Use fungicide,0.98,/user/user/document/image_603.jpg,2023-08-17 13:37:48,2024-02-09 04:06:57
+Verticillium Wilt,Bacterial Infection,Remove infected leaves,0.6,/user/user/document/image_170.jpg,2022-11-03 16:58:39,2022-04-04 00:34:47
+Peanut Leaf Spot,Pests,Use resistant varieties,0.91,/user/user/document/image_910.jpg,2024-03-08 19:47:28,2022-04-12 19:43:32
+Clubroot,Poor Drainage,Improve soil drainage,0.57,/user/user/document/image_440.jpg,2022-02-28 13:22:00,2022-06-16 14:58:35
+Pythium Root Rot,Viral Infection,Use fungicide,0.51,/user/user/document/image_547.jpg,2022-12-24 05:21:15,2022-09-18 14:51:09
+Bacterial Blight,Fungal Infection,Control pests,0.75,/user/user/document/image_439.jpg,2022-05-24 04:09:50,2023-09-14 23:52:43
+Rust,Bacterial Infection,Adjust watering schedule,0.52,/user/user/document/image_805.jpg,2022-06-23 17:22:42,2024-03-09 08:08:27
+Mosaic Virus,Chemical Damage,Use fungicide,0.82,/user/user/document/image_868.jpg,2022-02-23 18:48:10,2023-05-06 13:34:05
+White Rust,Bacterial Infection,Use resistant varieties,0.53,/user/user/document/image_345.jpg,2024-04-30 10:18:49,2023-05-23 17:06:05
+Huanglongbing,Poor Drainage,Use proper sanitation practices,0.74,/user/user/document/image_703.jpg,2023-09-20 04:12:07,2023-06-24 18:58:54
+Wheat Leaf Rust,Fungal Infection,Apply bactericide,0.59,/user/user/document/image_365.jpg,2023-12-23 09:41:26,2022-03-25 00:04:19
+Verticillium Wilt,Bacterial Infection,Provide adequate nutrition,0.85,/user/user/document/image_349.jpg,2023-01-04 23:08:16,2022-04-29 09:26:54
+White Mold,Environmental Stress,Apply bactericide,0.63,/user/user/document/image_594.jpg,2022-06-18 22:13:58,2023-10-09 18:12:21
+Melon Necrotic Spot Virus,Viral Infection,Use proper sanitation practices,0.51,/user/user/document/image_487.jpg,2022-12-24 14:38:01,2023-10-30 08:12:24
+Anthracnose,Chemical Damage,Use resistant varieties,0.58,/user/user/document/image_801.jpg,2023-03-14 15:04:00,2023-10-24 05:29:49
+Brown Patch,Poor Drainage,Adjust watering schedule,0.96,/user/user/document/image_432.jpg,2023-09-03 09:31:48,2024-04-13 05:10:30
+Ergot,Poor Drainage,Apply bactericide,0.71,/user/user/document/image_402.jpg,2023-03-18 13:38:08,2022-01-10 11:32:52
+Maize Dwarf Mosaic Virus,Bacterial Infection,Use fungicide,0.92,/user/user/document/image_255.jpg,2023-06-10 21:16:58,2024-03-09 18:34:48
+Cotton Root Rot,Fungal Infection,Use fungicide,0.64,/user/user/document/image_110.jpg,2024-05-05 22:54:44,2023-11-17 02:29:14
+Canker,Chemical Damage,Adjust watering schedule,0.92,/user/user/document/image_548.jpg,2023-08-06 22:56:37,2022-06-07 21:15:27
+Cabbage Yellows,Pests,Use proper sanitation practices,0.54,/user/user/document/image_658.jpg,2022-11-07 02:29:49,2022-11-22 22:22:55
+Fusarium Wilt,Poor Drainage,Apply neem oil,0.99,/user/user/document/image_351.jpg,2023-01-28 01:04:14,2024-03-03 12:27:24
+Corky Root Rot,Environmental Stress,Adjust watering schedule,0.75,/user/user/document/image_582.jpg,2023-04-11 03:17:26,2023-02-07 18:35:33
+Peanut Leaf Spot,Fungal Infection,Use resistant varieties,0.97,/user/user/document/image_535.jpg,2023-06-08 07:55:25,2024-04-18 13:17:15
+Black Root Rot,Fungal Infection,Use fungicide,0.96,/user/user/document/image_162.jpg,2022-07-23 20:44:04,2022-05-18 17:15:54
+Blossom End Rot,Pests,Provide adequate nutrition,0.67,/user/user/document/image_630.jpg,2023-12-31 20:52:43,2022-12-06 09:57:37
+Needle Blight,Nutrient Deficiency,Use fungicide,0.95,/user/user/document/image_199.jpg,2022-07-03 15:20:08,2023-08-28 15:29:57
+Leaf Scorch,Bacterial Infection,Improve soil drainage,0.51,/user/user/document/image_895.jpg,2023-04-23 07:50:11,2023-11-15 18:53:08
+Southern Blight,Nutrient Deficiency,Use resistant varieties,0.62,/user/user/document/image_468.jpg,2022-03-02 03:18:52,2024-02-20 18:16:16
+Citrus Greening,Nutrient Deficiency,Apply bactericide,0.95,/user/user/document/image_919.jpg,2024-03-03 09:01:31,2022-03-26 00:26:26
+Watermelon Mosaic Virus,Nutrient Deficiency,Use proper sanitation practices,0.8,/user/user/document/image_624.jpg,2022-02-19 13:51:51,2022-12-26 12:00:44
+Verticillium Wilt,Viral Infection,Adjust watering schedule,0.68,/user/user/document/image_810.jpg,2023-10-03 02:39:26,2023-03-10 20:59:09
+Black Spot,Environmental Stress,Adjust watering schedule,0.97,/user/user/document/image_661.jpg,2023-05-10 23:16:41,2022-07-25 12:37:18
+Leaf Spot,Bacterial Infection,Apply bactericide,0.65,/user/user/document/image_664.jpg,2024-02-19 17:53:30,2023-04-29 04:50:29
+Hydrangea Rust,Fungal Infection,Apply neem oil,0.74,/user/user/document/image_739.jpg,2023-05-10 02:43:43,2023-07-17 17:33:55
+Phytophthora Blight,Environmental Stress,Remove infected leaves,0.92,/user/user/document/image_802.jpg,2023-08-07 02:23:15,2022-05-29 20:55:13
+Fire Blight,Nutrient Deficiency,Improve soil drainage,0.85,/user/user/document/image_743.jpg,2022-10-03 07:05:28,2022-08-03 14:21:41
+Rhizoctonia Root Rot,Bacterial Infection,Control pests,0.76,/user/user/document/image_991.jpg,2023-10-22 19:07:06,2024-03-13 06:40:46
+Huanglongbing,Bacterial Infection,Apply bactericide,0.69,/user/user/document/image_855.jpg,2022-03-21 23:00:49,2023-05-23 01:04:31
+Yellow Leaf Curl Virus,Poor Drainage,Use resistant varieties,0.79,/user/user/document/image_944.jpg,2022-07-07 09:25:01,2023-01-22 07:39:40
+Anthracnose,Chemical Damage,Use proper sanitation practices,0.55,/user/user/document/image_992.jpg,2024-02-09 06:33:04,2022-08-09 21:08:23
+Citrus Canker,Pests,Use proper sanitation practices,0.51,/user/user/document/image_719.jpg,2022-01-25 12:40:25,2022-04-11 00:52:03
+Stem Rot,Environmental Stress,Use fungicide,0.95,/user/user/document/image_626.jpg,2024-04-01 06:59:39,2024-01-23 20:04:09
+Septoria Leaf Spot,Environmental Stress,Use resistant varieties,0.61,/user/user/document/image_612.jpg,2022-08-01 12:50:44,2022-11-07 02:32:10
+Septoria Leaf Spot,Nutrient Deficiency,Remove infected leaves,0.61,/user/user/document/image_927.jpg,2023-08-31 01:13:51,2022-05-20 05:30:53
+Alternaria Leaf Spot,Bacterial Infection,Use fungicide,0.66,/user/user/document/image_739.jpg,2022-01-09 18:35:21,2023-11-02 05:51:26
+Red Stele,Viral Infection,Improve soil drainage,0.77,/user/user/document/image_232.jpg,2022-03-19 09:08:51,2022-08-04 13:08:57
+Bacterial Canker,Viral Infection,Use proper sanitation practices,0.52,/user/user/document/image_285.jpg,2022-07-16 16:07:11,2024-02-14 05:14:27
+Tobacco Mosaic Virus,Poor Drainage,Use proper sanitation practices,0.98,/user/user/document/image_576.jpg,2022-02-04 20:38:34,2022-09-01 18:01:13
+Apple Scab,Nutrient Deficiency,Adjust watering schedule,0.6,/user/user/document/image_763.jpg,2023-06-20 01:55:32,2022-12-06 19:01:59
+Pepper Anthracnose,Nutrient Deficiency,Apply neem oil,0.89,/user/user/document/image_393.jpg,2022-11-17 02:43:35,2022-05-19 22:50:18
+Cotton Root Rot,Viral Infection,Use fungicide,0.99,/user/user/document/image_459.jpg,2022-01-12 21:08:10,2023-01-03 11:22:10
+Phytophthora Blight,Fungal Infection,Improve soil drainage,0.89,/user/user/document/image_913.jpg,2024-04-13 06:29:10,2024-01-07 01:01:40
+Maize Dwarf Mosaic Virus,Fungal Infection,Apply neem oil,0.66,/user/user/document/image_476.jpg,2023-03-29 06:33:41,2023-02-03 10:47:12
+Rust,Pests,Adjust watering schedule,0.98,/user/user/document/image_458.jpg,2022-07-15 03:30:43,2023-09-05 15:30:21
+Blossom End Rot,Fungal Infection,Control pests,0.89,/user/user/document/image_501.jpg,2022-02-22 02:15:19,2023-09-10 20:08:38
+Red Stele,Pests,Use resistant varieties,0.86,/user/user/document/image_904.jpg,2024-01-10 11:41:36,2023-11-14 00:21:57
+Sclerotinia Stem Rot,Pests,Use fungicide,0.76,/user/user/document/image_607.jpg,2023-04-07 07:02:25,2022-08-31 08:55:47
+Black Root Rot,Environmental Stress,Use fungicide,0.55,/user/user/document/image_749.jpg,2024-03-07 01:39:04,2022-04-01 13:56:25
+Gray Leaf Spot,Environmental Stress,Improve soil drainage,0.84,/user/user/document/image_875.jpg,2023-09-24 08:53:16,2022-12-14 17:54:32
+Pink Root,Environmental Stress,Use fungicide,0.76,/user/user/document/image_789.jpg,2023-10-19 05:37:31,2024-02-24 05:59:59
+Corn Smut,Poor Drainage,Use fungicide,0.58,/user/user/document/image_781.jpg,2023-08-23 23:43:23,2024-05-07 20:30:08
+Brown Patch,Bacterial Infection,Use fungicide,0.8,/user/user/document/image_216.jpg,2024-03-17 03:33:50,2023-07-08 18:33:28
+Leaf Curl,Fungal Infection,Adjust watering schedule,0.92,/user/user/document/image_700.jpg,2024-01-21 13:17:31,2022-06-24 18:04:46
+Black Rot,Poor Drainage,Apply bactericide,0.81,/user/user/document/image_382.jpg,2023-04-04 06:05:21,2023-05-02 00:51:42
+Black Root Rot,Poor Drainage,Apply neem oil,0.68,/user/user/document/image_108.jpg,2022-02-25 14:43:24,2023-02-03 17:13:59
+Early Blight,Pests,Control pests,0.59,/user/user/document/image_604.jpg,2023-04-14 17:44:57,2023-11-02 15:53:49
+Gummy Stem Blight,Fungal Infection,Improve soil drainage,0.8,/user/user/document/image_842.jpg,2023-01-26 02:13:18,2024-01-14 01:29:21
+White Mold,Fungal Infection,Remove infected leaves,0.95,/user/user/document/image_748.jpg,2023-09-01 14:25:00,2022-12-25 02:57:40
+Brown Rot,Viral Infection,Use fungicide,0.59,/user/user/document/image_763.jpg,2022-04-13 16:44:44,2023-09-17 16:50:56
+Onion Downy Mildew,Fungal Infection,Provide adequate nutrition,0.97,/user/user/document/image_161.jpg,2022-07-30 13:01:29,2023-03-18 23:48:33
+Leaf Blotch,Pests,Improve soil drainage,0.9,/user/user/document/image_445.jpg,2023-06-04 02:43:09,2022-07-07 02:09:36
+Bacterial Streak,Poor Drainage,Improve soil drainage,0.83,/user/user/document/image_466.jpg,2022-12-21 17:23:38,2022-05-28 20:50:19
+Cercospora Leaf Spot,Pests,Improve soil drainage,0.66,/user/user/document/image_476.jpg,2023-02-27 01:45:58,2022-12-24 17:39:35
+Verticillium Wilt,Pests,Apply neem oil,0.63,/user/user/document/image_254.jpg,2022-12-23 07:16:28,2022-09-04 02:54:22
+Bacterial Speck,Poor Drainage,Adjust watering schedule,0.54,/user/user/document/image_191.jpg,2024-04-08 22:09:52,2024-04-02 11:01:18
+Cercospora Leaf Spot,Viral Infection,Use proper sanitation practices,0.91,/user/user/document/image_535.jpg,2023-02-05 05:52:59,2023-04-09 06:59:10
+Root Knot Nematode,Environmental Stress,Remove infected leaves,0.89,/user/user/document/image_302.jpg,2023-07-11 04:34:17,2023-09-29 14:56:19
+Lettuce Drop,Poor Drainage,Use fungicide,0.75,/user/user/document/image_570.jpg,2024-01-09 13:08:59,2023-07-18 04:20:41
+White Rust,Nutrient Deficiency,Apply neem oil,0.69,/user/user/document/image_425.jpg,2023-08-20 18:24:21,2023-08-31 07:39:46
+Stem Rot,Pests,Provide adequate nutrition,0.83,/user/user/document/image_110.jpg,2023-06-14 08:18:04,2024-02-15 18:42:57
+Brown Patch,Bacterial Infection,Use resistant varieties,0.81,/user/user/document/image_887.jpg,2022-05-14 22:59:11,2022-02-06 01:58:26
+Scab,Nutrient Deficiency,Use proper sanitation practices,0.59,/user/user/document/image_501.jpg,2022-03-15 19:36:24,2023-09-29 00:40:14
+Halo Blight,Viral Infection,Apply neem oil,0.58,/user/user/document/image_70.jpg,2023-03-05 17:39:16,2022-10-13 23:26:17
+Sooty Mold,Poor Drainage,Improve soil drainage,0.54,/user/user/document/image_707.jpg,2023-01-14 16:36:45,2022-07-31 08:03:49
+Nematode Damage,Environmental Stress,Improve soil drainage,0.64,/user/user/document/image_970.jpg,2022-07-08 11:56:16,2023-03-25 05:30:17
+Squash Mosaic Virus,Environmental Stress,Use fungicide,0.96,/user/user/document/image_67.jpg,2022-05-28 22:37:45,2022-12-10 12:35:39
+Yellow Leaf Curl Virus,Bacterial Infection,Control pests,0.64,/user/user/document/image_958.jpg,2023-08-29 19:10:41,2024-01-09 22:22:12
+Dutch Elm Disease,Viral Infection,Provide adequate nutrition,0.89,/user/user/document/image_966.jpg,2023-04-14 01:51:10,2023-11-20 06:43:44
+Downy Mildew,Environmental Stress,Control pests,0.8,/user/user/document/image_638.jpg,2022-10-24 14:05:39,2022-04-22 04:26:03
+Ergot,Poor Drainage,Use resistant varieties,0.69,/user/user/document/image_74.jpg,2022-04-15 01:55:58,2023-09-11 01:41:18
+Armillaria Root Rot,Viral Infection,Control pests,0.62,/user/user/document/image_63.jpg,2023-09-26 21:08:25,2024-01-31 18:13:17
+Crown Gall,Poor Drainage,Use proper sanitation practices,0.65,/user/user/document/image_63.jpg,2024-05-10 07:23:27,2022-12-02 23:34:57
+Watermelon Mosaic Virus,Pests,Apply bactericide,0.55,/user/user/document/image_473.jpg,2022-07-16 18:25:16,2023-07-01 22:04:28
+Black Root Rot,Chemical Damage,Use fungicide,0.87,/user/user/document/image_771.jpg,2024-04-25 12:33:49,2023-08-01 16:03:26
+Watermelon Mosaic Virus,Nutrient Deficiency,Control pests,0.78,/user/user/document/image_350.jpg,2022-09-26 22:31:21,2024-01-19 11:06:07
+Leaf Scorch,Pests,Use fungicide,0.69,/user/user/document/image_394.jpg,2023-04-12 05:41:51,2023-02-05 21:54:33
+Downy Mildew,Viral Infection,Use proper sanitation practices,0.68,/user/user/document/image_415.jpg,2022-10-01 12:25:36,2023-05-18 21:32:37
+Phomopsis Blight,Bacterial Infection,Use resistant varieties,0.52,/user/user/document/image_98.jpg,2022-03-20 15:55:22,2023-09-29 01:33:30
+Dutch Elm Disease,Environmental Stress,Use resistant varieties,0.96,/user/user/document/image_145.jpg,2023-07-28 01:33:58,2023-05-05 19:47:20
+Crown Gall,Pests,Apply neem oil,0.8,/user/user/document/image_905.jpg,2023-05-23 21:48:40,2022-04-02 13:20:37
+Tomato Spotted Wilt Virus,Viral Infection,Use fungicide,0.84,/user/user/document/image_696.jpg,2023-11-15 07:16:06,2022-09-01 13:42:59
+Stem Rust,Environmental Stress,Provide adequate nutrition,0.7,/user/user/document/image_844.jpg,2022-07-16 04:23:55,2022-10-13 05:19:52
+Angular Leaf Spot,Nutrient Deficiency,Use resistant varieties,0.51,/user/user/document/image_513.jpg,2023-05-20 09:20:11,2022-06-22 15:49:42
+Southern Blight,Viral Infection,Use resistant varieties,0.53,/user/user/document/image_105.jpg,2022-02-13 15:05:03,2024-04-03 18:14:18
+Blue Mold,Pests,Remove infected leaves,0.98,/user/user/document/image_391.jpg,2023-09-22 09:39:27,2023-05-08 18:29:43
+Eggplant Verticillium Wilt,Fungal Infection,Adjust watering schedule,0.75,/user/user/document/image_727.jpg,2023-12-18 20:37:00,2022-10-07 03:14:37
+Apple Scab,Poor Drainage,Use resistant varieties,0.68,/user/user/document/image_838.jpg,2022-01-05 04:59:01,2023-09-24 20:08:53
+Bacterial Streak,Bacterial Infection,Provide adequate nutrition,0.86,/user/user/document/image_294.jpg,2023-02-20 16:56:29,2022-05-13 08:35:20
+Bacterial Speck,Chemical Damage,Provide adequate nutrition,0.73,/user/user/document/image_923.jpg,2022-10-05 21:21:23,2023-09-20 16:20:44
+Gray Leaf Spot,Poor Drainage,Apply bactericide,0.58,/user/user/document/image_34.jpg,2023-11-13 10:52:11,2022-07-11 21:41:09
+Pink Root,Chemical Damage,Improve soil drainage,0.67,/user/user/document/image_390.jpg,2022-03-20 21:18:24,2024-04-30 06:11:59
+Bacterial Canker,Bacterial Infection,Use proper sanitation practices,0.71,/user/user/document/image_667.jpg,2024-03-07 16:01:44,2024-04-18 06:06:48
+Rust,Pests,Adjust watering schedule,0.64,/user/user/document/image_293.jpg,2023-07-12 09:57:18,2023-03-02 01:07:46
+Late Blight,Bacterial Infection,Provide adequate nutrition,0.56,/user/user/document/image_494.jpg,2022-02-21 01:41:01,2022-05-27 06:35:03
+Needle Blight,Viral Infection,Use fungicide,0.9,/user/user/document/image_48.jpg,2022-01-15 07:31:35,2023-10-14 16:57:45
+Dutch Elm Disease,Pests,Adjust watering schedule,0.92,/user/user/document/image_594.jpg,2024-04-04 15:04:16,2022-06-29 08:18:51
+Fusarium Wilt,Pests,Apply bactericide,0.75,/user/user/document/image_941.jpg,2022-03-09 05:53:49,2022-04-05 17:41:42
+Canker,Nutrient Deficiency,Use fungicide,0.79,/user/user/document/image_140.jpg,2024-03-28 04:46:47,2022-04-08 04:54:42
+Bean Rust,Environmental Stress,Apply bactericide,0.71,/user/user/document/image_181.jpg,2024-04-08 02:23:31,2023-11-17 04:06:05
+Squash Mosaic Virus,Bacterial Infection,Remove infected leaves,0.95,/user/user/document/image_250.jpg,2023-11-04 15:34:10,2022-12-24 00:59:02
+Rice Blast,Bacterial Infection,Use resistant varieties,0.75,/user/user/document/image_701.jpg,2022-03-22 04:27:55,2022-11-25 06:52:40
+Leaf Curl,Fungal Infection,Apply neem oil,0.99,/user/user/document/image_558.jpg,2022-12-20 18:04:34,2023-05-26 14:33:17
+Scab,Poor Drainage,Control pests,1.0,/user/user/document/image_325.jpg,2023-02-20 13:08:42,2023-07-07 03:48:31
+Impatiens Necrotic Spot Virus,Chemical Damage,Apply bactericide,0.78,/user/user/document/image_918.jpg,2023-05-29 12:41:40,2024-04-08 02:45:54
+Wheat Leaf Rust,Fungal Infection,Apply bactericide,0.72,/user/user/document/image_941.jpg,2022-09-11 14:19:53,2022-03-26 11:49:03
+Scab,Viral Infection,Apply bactericide,0.71,/user/user/document/image_264.jpg,2023-12-27 01:50:00,2022-06-18 10:10:34
+Peach Leaf Curl,Chemical Damage,Use fungicide,0.63,/user/user/document/image_282.jpg,2022-08-29 00:58:36,2022-01-31 06:01:40
+Stemphylium Leaf Spot,Chemical Damage,Use fungicide,0.97,/user/user/document/image_245.jpg,2022-09-06 01:43:22,2023-08-18 21:53:40
+Bacterial Blight,Viral Infection,Provide adequate nutrition,0.98,/user/user/document/image_650.jpg,2023-04-15 00:23:20,2022-03-21 01:33:19
+Canker,Chemical Damage,Improve soil drainage,0.75,/user/user/document/image_432.jpg,2022-07-20 09:33:59,2022-03-28 12:26:51
+Black Spot,Pests,Provide adequate nutrition,0.66,/user/user/document/image_237.jpg,2022-07-21 17:04:58,2022-01-26 04:30:23
+Pink Root,Fungal Infection,Control pests,0.67,/user/user/document/image_947.jpg,2022-04-21 18:56:32,2022-12-15 16:44:19
+Anthracnose Fruit Rot,Nutrient Deficiency,Use fungicide,0.63,/user/user/document/image_785.jpg,2023-02-14 04:58:17,2023-10-26 12:42:03
+Fire Blight,Poor Drainage,Provide adequate nutrition,0.61,/user/user/document/image_152.jpg,2022-02-08 01:45:13,2024-03-30 10:57:04
+Gray Leaf Spot,Environmental Stress,Control pests,0.85,/user/user/document/image_391.jpg,2023-03-08 14:57:50,2023-09-08 07:47:23
+Anthracnose Fruit Rot,Environmental Stress,Remove infected leaves,0.53,/user/user/document/image_825.jpg,2023-11-22 03:11:13,2022-02-26 17:06:54
+Watermelon Mosaic Virus,Poor Drainage,Remove infected leaves,0.63,/user/user/document/image_282.jpg,2022-12-08 19:31:57,2023-01-03 16:27:34
+Powdery Mildew,Poor Drainage,Improve soil drainage,0.51,/user/user/document/image_612.jpg,2023-05-02 19:28:14,2024-02-22 19:03:20
+Southern Blight,Fungal Infection,Use resistant varieties,0.84,/user/user/document/image_696.jpg,2022-10-08 09:27:40,2024-03-29 06:09:38
+Armillaria Root Rot,Pests,Use proper sanitation practices,0.55,/user/user/document/image_42.jpg,2023-07-09 23:16:39,2023-10-20 14:02:59
+Melon Necrotic Spot Virus,Pests,Adjust watering schedule,0.86,/user/user/document/image_574.jpg,2023-08-31 13:44:20,2024-01-09 15:15:58
+Corky Root Rot,Pests,Apply bactericide,0.55,/user/user/document/image_530.jpg,2023-10-10 07:15:33,2022-02-16 10:30:42
+Black Knot,Bacterial Infection,Apply bactericide,0.59,/user/user/document/image_668.jpg,2023-09-06 20:42:04,2022-05-16 01:06:32
+Pythium Root Rot,Pests,Apply bactericide,0.91,/user/user/document/image_210.jpg,2023-03-30 04:23:06,2024-01-30 06:45:40
+Sooty Mold,Pests,Use resistant varieties,0.51,/user/user/document/image_296.jpg,2023-06-14 20:52:17,2022-02-18 01:18:08
+Leaf Blotch,Nutrient Deficiency,Use fungicide,0.62,/user/user/document/image_13.jpg,2024-04-10 16:12:56,2022-05-07 21:46:19
+Halo Blight,Fungal Infection,Apply bactericide,0.8,/user/user/document/image_835.jpg,2023-07-23 07:45:39,2023-06-28 08:59:38
+Tobacco Mosaic Virus,Environmental Stress,Provide adequate nutrition,0.68,/user/user/document/image_2.jpg,2023-01-02 01:03:54,2022-07-11 20:05:29
+White Rust,Fungal Infection,Adjust watering schedule,0.69,/user/user/document/image_184.jpg,2023-10-19 04:06:53,2022-05-21 12:24:20
+Cucumber Mosaic Virus,Viral Infection,Apply bactericide,0.72,/user/user/document/image_918.jpg,2022-10-27 14:28:35,2023-04-13 08:51:33
+Wheat Leaf Rust,Environmental Stress,Improve soil drainage,0.52,/user/user/document/image_872.jpg,2023-01-02 18:02:19,2022-02-21 00:02:05
+Anthracnose,Pests,Apply neem oil,0.99,/user/user/document/image_122.jpg,2023-03-19 11:34:38,2022-09-13 03:24:09
+Leaf Rust,Fungal Infection,Adjust watering schedule,0.63,/user/user/document/image_544.jpg,2022-08-07 05:03:38,2022-08-04 15:36:46
+Wheat Leaf Rust,Bacterial Infection,Remove infected leaves,0.65,/user/user/document/image_978.jpg,2024-01-10 08:50:23,2023-07-31 05:14:15
+Halo Blight,Nutrient Deficiency,Use fungicide,0.8,/user/user/document/image_113.jpg,2023-10-04 18:47:46,2022-01-14 06:36:38
+Stem Rot,Nutrient Deficiency,Use proper sanitation practices,0.75,/user/user/document/image_683.jpg,2022-02-09 14:54:30,2023-04-14 19:28:44
+Bacterial Wilt,Pests,Remove infected leaves,0.6,/user/user/document/image_640.jpg,2024-05-09 02:00:01,2022-10-15 17:12:21
+Verticillium Wilt,Viral Infection,Use resistant varieties,0.52,/user/user/document/image_320.jpg,2023-09-14 17:17:12,2022-01-18 12:55:25
+Potato Scab,Pests,Adjust watering schedule,0.77,/user/user/document/image_264.jpg,2023-01-12 11:30:20,2023-08-01 12:37:20
+Late Blight,Bacterial Infection,Use fungicide,0.72,/user/user/document/image_673.jpg,2024-01-06 12:18:33,2024-01-19 20:28:28
+Onion Downy Mildew,Nutrient Deficiency,Improve soil drainage,0.81,/user/user/document/image_908.jpg,2023-05-22 22:16:46,2022-07-14 01:03:05
+Impatiens Necrotic Spot Virus,Viral Infection,Use fungicide,0.88,/user/user/document/image_661.jpg,2023-05-20 14:47:17,2022-12-08 17:09:05
+Kale Black Rot,Environmental Stress,Use fungicide,0.99,/user/user/document/image_135.jpg,2022-04-21 22:20:46,2022-07-11 18:26:08
+Bacterial Spot,Environmental Stress,Use fungicide,0.57,/user/user/document/image_301.jpg,2022-03-04 15:52:04,2022-04-24 15:36:27
+Tomato Spotted Wilt Virus,Environmental Stress,Apply bactericide,0.92,/user/user/document/image_405.jpg,2024-02-06 20:59:41,2022-02-13 04:21:39
+Halo Blight,Pests,Use proper sanitation practices,0.98,/user/user/document/image_363.jpg,2024-04-07 10:16:14,2023-04-25 14:06:31
+Verticillium Wilt,Bacterial Infection,Remove infected leaves,0.81,/user/user/document/image_732.jpg,2022-07-13 10:01:36,2022-07-19 15:34:18
+Huanglongbing,Environmental Stress,Adjust watering schedule,0.75,/user/user/document/image_436.jpg,2024-02-07 16:01:19,2023-05-18 14:05:05
+Leaf Spot,Nutrient Deficiency,Use resistant varieties,0.65,/user/user/document/image_575.jpg,2023-10-23 06:54:45,2022-02-08 09:37:24
+White Mold,Fungal Infection,Provide adequate nutrition,0.8,/user/user/document/image_952.jpg,2022-04-17 09:10:30,2022-11-01 15:37:59
+Late Blight,Environmental Stress,Improve soil drainage,0.82,/user/user/document/image_26.jpg,2022-05-17 08:22:42,2022-10-27 14:50:30
+Stem Rust,Poor Drainage,Use fungicide,0.57,/user/user/document/image_586.jpg,2022-12-13 08:56:39,2022-08-15 07:12:05
+Verticillium Wilt,Environmental Stress,Adjust watering schedule,0.71,/user/user/document/image_521.jpg,2024-04-30 00:01:35,2023-01-25 03:11:57
+Kale Black Rot,Environmental Stress,Remove infected leaves,0.95,/user/user/document/image_466.jpg,2022-12-29 01:39:40,2023-09-02 20:10:46
+Bacterial Streak,Poor Drainage,Provide adequate nutrition,0.66,/user/user/document/image_342.jpg,2023-07-17 21:14:32,2024-02-18 07:05:11
+Angular Leaf Spot,Bacterial Infection,Control pests,0.98,/user/user/document/image_974.jpg,2024-02-12 07:11:19,2022-12-12 22:31:17
+Black Knot,Fungal Infection,Provide adequate nutrition,0.86,/user/user/document/image_672.jpg,2022-07-08 23:13:46,2023-10-26 03:11:58
+Bacterial Wilt,Pests,Use resistant varieties,0.96,/user/user/document/image_718.jpg,2022-12-24 21:38:07,2024-04-13 08:37:48
+Leaf Blotch,Bacterial Infection,Improve soil drainage,0.52,/user/user/document/image_412.jpg,2023-07-22 16:00:15,2022-03-24 18:27:51
+Kale Black Rot,Chemical Damage,Adjust watering schedule,0.6,/user/user/document/image_241.jpg,2022-08-05 03:45:42,2022-05-12 22:03:23
+Downy Mildew,Environmental Stress,Use fungicide,0.62,/user/user/document/image_70.jpg,2022-05-05 01:22:12,2024-04-28 22:21:33
+Sooty Mold,Pests,Remove infected leaves,0.87,/user/user/document/image_606.jpg,2023-11-30 03:52:04,2023-08-12 18:12:42
+Zinc Deficiency,Chemical Damage,Apply neem oil,0.94,/user/user/document/image_284.jpg,2022-01-14 12:19:48,2022-06-27 17:07:25
+Dutch Elm Disease,Chemical Damage,Use fungicide,0.99,/user/user/document/image_833.jpg,2022-03-03 06:50:44,2022-09-30 20:24:47
+Bean Rust,Fungal Infection,Use proper sanitation practices,0.54,/user/user/document/image_111.jpg,2023-04-12 01:42:17,2022-08-05 12:22:29
+Late Blight,Fungal Infection,Improve soil drainage,0.62,/user/user/document/image_415.jpg,2023-09-10 03:21:07,2022-03-23 08:17:02
+Bean Common Mosaic Virus,Pests,Adjust watering schedule,0.58,/user/user/document/image_759.jpg,2022-09-18 14:49:53,2022-05-31 01:04:30
+Corn Smut,Chemical Damage,Adjust watering schedule,0.64,/user/user/document/image_795.jpg,2022-02-15 10:48:15,2023-06-27 17:54:04
+Cercospora Leaf Spot,Pests,Use resistant varieties,0.86,/user/user/document/image_483.jpg,2022-11-11 02:43:43,2023-11-07 11:13:34
+Needle Blight,Pests,Use fungicide,0.93,/user/user/document/image_890.jpg,2022-01-30 20:23:33,2022-10-04 12:29:24
+Citrus Canker,Pests,Use fungicide,0.5,/user/user/document/image_750.jpg,2022-10-17 10:19:41,2023-08-20 04:22:25
+Zinc Deficiency,Environmental Stress,Use fungicide,0.53,/user/user/document/image_529.jpg,2024-05-03 16:19:24,2023-07-10 10:51:01
+Anthracnose,Nutrient Deficiency,Use fungicide,0.52,/user/user/document/image_891.jpg,2022-03-22 01:13:29,2024-01-30 20:30:44
+Sclerotinia Stem Rot,Poor Drainage,Apply neem oil,0.7,/user/user/document/image_558.jpg,2023-04-25 22:32:41,2022-07-22 19:21:57
+Anthracnose,Pests,Control pests,0.69,/user/user/document/image_223.jpg,2023-11-14 19:55:37,2023-07-26 16:11:22
+Onion Downy Mildew,Viral Infection,Control pests,0.76,/user/user/document/image_661.jpg,2022-05-03 21:16:02,2023-04-03 23:48:34
+Kale Black Rot,Pests,Provide adequate nutrition,0.63,/user/user/document/image_138.jpg,2022-02-07 15:37:45,2023-12-06 20:44:47
+Common Rust,Viral Infection,Use resistant varieties,0.89,/user/user/document/image_119.jpg,2023-12-28 00:52:48,2022-06-30 14:53:52
+Brown Patch,Bacterial Infection,Control pests,0.94,/user/user/document/image_768.jpg,2023-01-12 07:53:08,2023-11-11 11:10:27
+Botrytis Blight,Viral Infection,Improve soil drainage,0.58,/user/user/document/image_460.jpg,2022-08-09 04:02:31,2023-06-29 09:18:38
+Crown Gall,Viral Infection,Apply neem oil,0.81,/user/user/document/image_644.jpg,2023-09-29 23:56:31,2023-07-25 06:50:19
+Damping-Off,Nutrient Deficiency,Use proper sanitation practices,0.52,/user/user/document/image_760.jpg,2023-06-30 19:37:18,2023-01-27 03:28:56
+Corn Smut,Poor Drainage,Control pests,0.85,/user/user/document/image_917.jpg,2022-09-17 03:45:47,2022-09-08 19:25:41
+Phytophthora Blight,Pests,Provide adequate nutrition,0.67,/user/user/document/image_464.jpg,2023-09-06 23:16:35,2024-04-27 19:35:47
+Mosaic Virus,Chemical Damage,Use proper sanitation practices,0.71,/user/user/document/image_197.jpg,2022-04-12 21:42:01,2023-10-17 19:44:48
+Leaf Curl,Nutrient Deficiency,Use fungicide,0.51,/user/user/document/image_746.jpg,2022-01-27 04:59:49,2023-04-03 12:44:28
+Nematode Damage,Pests,Apply neem oil,0.95,/user/user/document/image_515.jpg,2023-12-15 17:45:06,2022-04-10 00:36:32
+Phytophthora Blight,Pests,Use fungicide,0.9,/user/user/document/image_545.jpg,2022-05-24 03:20:34,2023-04-08 17:10:16
+Bacterial Wilt,Fungal Infection,Control pests,0.59,/user/user/document/image_513.jpg,2023-06-21 13:10:45,2022-06-07 21:05:22
+Lettuce Drop,Chemical Damage,Use proper sanitation practices,0.86,/user/user/document/image_27.jpg,2022-02-25 04:21:11,2022-03-15 03:49:11
+Corn Smut,Chemical Damage,Use proper sanitation practices,0.64,/user/user/document/image_575.jpg,2022-05-30 07:54:10,2022-05-26 13:58:30
+Bacterial Wilt,Fungal Infection,Use resistant varieties,0.71,/user/user/document/image_464.jpg,2024-02-10 17:52:29,2022-10-26 00:55:40
+Clubroot,Bacterial Infection,Improve soil drainage,0.99,/user/user/document/image_436.jpg,2024-02-23 13:42:12,2023-06-21 09:03:07
+Southern Blight,Pests,Control pests,0.63,/user/user/document/image_208.jpg,2022-08-18 16:07:41,2022-09-08 19:39:24
+Blue Mold,Poor Drainage,Control pests,0.89,/user/user/document/image_214.jpg,2022-12-10 22:08:06,2022-07-25 09:37:16
+Verticillium Wilt,Environmental Stress,Use proper sanitation practices,0.73,/user/user/document/image_97.jpg,2022-12-28 03:18:46,2023-06-02 21:08:59
+Blossom End Rot,Bacterial Infection,Improve soil drainage,0.72,/user/user/document/image_955.jpg,2023-03-07 09:17:37,2023-12-11 10:36:29
+Ascochyta Blight,Chemical Damage,Use fungicide,0.72,/user/user/document/image_520.jpg,2023-07-27 11:33:05,2023-04-18 12:45:11
+Stem Rot,Poor Drainage,Apply neem oil,0.77,/user/user/document/image_28.jpg,2023-10-11 03:35:18,2022-03-21 20:15:17
+Tomato Spotted Wilt Virus,Poor Drainage,Provide adequate nutrition,0.52,/user/user/document/image_427.jpg,2023-08-21 23:35:40,2023-03-05 02:21:19
+Bacterial Canker,Environmental Stress,Use resistant varieties,0.89,/user/user/document/image_533.jpg,2022-05-05 00:57:27,2023-06-19 08:32:07
+Watermelon Mosaic Virus,Poor Drainage,Use proper sanitation practices,0.88,/user/user/document/image_322.jpg,2022-11-03 15:50:11,2022-08-09 08:35:11
+Late Blight,Environmental Stress,Use proper sanitation practices,0.61,/user/user/document/image_304.jpg,2022-01-27 20:17:00,2022-03-16 09:45:05
+Sooty Mold,Chemical Damage,Use proper sanitation practices,0.58,/user/user/document/image_346.jpg,2024-01-22 11:56:22,2022-07-23 15:42:37
+Citrus Greening,Poor Drainage,Use resistant varieties,0.62,/user/user/document/image_474.jpg,2022-11-08 14:08:03,2023-05-15 10:57:41
+Stemphylium Leaf Spot,Nutrient Deficiency,Apply bactericide,0.92,/user/user/document/image_167.jpg,2024-04-17 10:11:22,2023-07-16 00:32:54
+Stemphylium Leaf Spot,Viral Infection,Improve soil drainage,0.71,/user/user/document/image_681.jpg,2022-02-14 14:04:17,2022-10-26 15:40:44
+Black Knot,Environmental Stress,Use fungicide,0.56,/user/user/document/image_659.jpg,2023-07-25 23:41:24,2023-01-03 01:40:25
+Bacterial Blight,Pests,Use resistant varieties,0.58,/user/user/document/image_950.jpg,2022-02-20 14:39:37,2022-08-04 07:43:32
+Rust,Chemical Damage,Control pests,0.76,/user/user/document/image_365.jpg,2023-12-02 16:11:38,2022-08-26 04:38:10
+Leaf Rust,Environmental Stress,Adjust watering schedule,0.53,/user/user/document/image_962.jpg,2022-02-14 11:28:30,2022-11-02 19:27:40
+Squash Mosaic Virus,Fungal Infection,Control pests,0.5,/user/user/document/image_864.jpg,2023-01-18 06:00:49,2023-12-21 11:20:34
+Rust,Bacterial Infection,Improve soil drainage,0.67,/user/user/document/image_543.jpg,2022-03-25 19:29:43,2022-06-24 15:32:35
+Alternaria Leaf Spot,Fungal Infection,Apply bactericide,0.92,/user/user/document/image_847.jpg,2023-08-02 07:32:32,2022-07-26 14:21:37
+White Mold,Pests,Apply bactericide,0.91,/user/user/document/image_247.jpg,2024-04-30 03:03:11,2022-11-05 18:46:01
+Bean Common Mosaic Virus,Pests,Apply neem oil,0.66,/user/user/document/image_685.jpg,2022-08-23 20:19:56,2022-10-20 06:57:20
+Bacterial Blight,Pests,Use proper sanitation practices,0.81,/user/user/document/image_607.jpg,2023-04-15 21:27:29,2023-04-30 15:26:17
+Apple Scab,Chemical Damage,Use proper sanitation practices,0.66,/user/user/document/image_626.jpg,2023-11-15 05:13:14,2023-09-17 21:19:56
+Armillaria Root Rot,Chemical Damage,Remove infected leaves,0.79,/user/user/document/image_180.jpg,2023-05-30 07:11:33,2023-05-11 23:17:45
+Brown Patch,Viral Infection,Apply bactericide,0.98,/user/user/document/image_577.jpg,2023-05-23 17:17:50,2023-03-24 10:09:34
+Bacterial Canker,Chemical Damage,Use fungicide,0.87,/user/user/document/image_633.jpg,2022-01-28 05:26:27,2023-07-27 02:45:21
+Yellow Leaf Curl Virus,Nutrient Deficiency,Adjust watering schedule,0.99,/user/user/document/image_245.jpg,2023-09-15 23:25:07,2023-01-14 01:17:40
+Blue Mold,Poor Drainage,Provide adequate nutrition,0.74,/user/user/document/image_433.jpg,2022-07-01 19:43:59,2022-04-28 21:52:21
+Brown Rot,Nutrient Deficiency,Improve soil drainage,0.88,/user/user/document/image_352.jpg,2023-04-19 09:21:41,2022-09-18 02:27:38
+Huanglongbing,Viral Infection,Control pests,0.53,/user/user/document/image_491.jpg,2024-02-06 00:39:48,2023-11-25 03:15:01
+Stemphylium Leaf Spot,Environmental Stress,Provide adequate nutrition,0.65,/user/user/document/image_32.jpg,2022-06-25 17:43:21,2022-09-29 18:45:21
+Citrus Greening,Viral Infection,Provide adequate nutrition,0.53,/user/user/document/image_317.jpg,2023-07-15 15:45:01,2023-07-17 05:28:41
+Rice Blast,Poor Drainage,Apply neem oil,0.68,/user/user/document/image_692.jpg,2023-10-08 15:02:08,2022-10-27 02:55:40
+Clubroot,Fungal Infection,Use resistant varieties,0.67,/user/user/document/image_188.jpg,2024-01-31 20:59:18,2022-07-26 10:04:35
+Tomato Spotted Wilt Virus,Environmental Stress,Use proper sanitation practices,0.69,/user/user/document/image_366.jpg,2023-06-25 12:29:41,2023-01-09 04:39:28
+Bacterial Wilt,Nutrient Deficiency,Remove infected leaves,0.78,/user/user/document/image_805.jpg,2024-04-08 22:07:03,2024-03-14 04:55:28
+Stem Rust,Poor Drainage,Improve soil drainage,0.66,/user/user/document/image_125.jpg,2023-07-02 18:48:37,2022-08-27 12:18:21
+Brown Patch,Pests,Improve soil drainage,0.9,/user/user/document/image_859.jpg,2022-01-27 15:03:21,2022-01-07 18:11:37
+Bacterial Spot,Poor Drainage,Use resistant varieties,0.58,/user/user/document/image_476.jpg,2022-03-13 12:11:59,2023-06-20 06:21:50
+Citrus Greening,Nutrient Deficiency,Remove infected leaves,0.82,/user/user/document/image_703.jpg,2022-01-01 01:59:08,2024-01-26 19:55:07
+Black Knot,Pests,Control pests,0.56,/user/user/document/image_13.jpg,2022-04-03 15:29:06,2023-12-02 01:27:29
+Leaf Spot,Nutrient Deficiency,Use fungicide,0.97,/user/user/document/image_764.jpg,2022-12-06 13:26:00,2023-10-14 08:22:33
+Black Knot,Fungal Infection,Apply neem oil,0.77,/user/user/document/image_311.jpg,2023-01-13 05:38:15,2022-04-02 23:34:19
+Alternaria Leaf Spot,Fungal Infection,Use proper sanitation practices,0.86,/user/user/document/image_131.jpg,2022-03-08 15:58:59,2024-03-02 18:30:19
+Pythium Root Rot,Poor Drainage,Use fungicide,0.77,/user/user/document/image_375.jpg,2023-10-11 22:47:03,2022-07-13 16:13:05
+Phomopsis Blight,Chemical Damage,Use resistant varieties,0.79,/user/user/document/image_425.jpg,2023-12-18 13:34:58,2023-02-08 21:09:16
+Stem Rust,Nutrient Deficiency,Adjust watering schedule,0.98,/user/user/document/image_306.jpg,2022-09-05 08:38:21,2023-08-26 10:36:15
+Bean Rust,Fungal Infection,Control pests,0.78,/user/user/document/image_162.jpg,2023-01-01 07:26:41,2022-03-21 21:07:50
+Downy Mildew,Chemical Damage,Apply neem oil,0.84,/user/user/document/image_316.jpg,2022-09-20 13:58:17,2023-08-02 07:19:16
+Maize Dwarf Mosaic Virus,Bacterial Infection,Apply neem oil,0.94,/user/user/document/image_59.jpg,2023-04-02 07:04:55,2023-07-26 15:44:00
+Potato Scab,Pests,Remove infected leaves,0.73,/user/user/document/image_203.jpg,2022-06-11 14:23:58,2023-08-23 01:28:28
+Yellow Leaf Curl Virus,Nutrient Deficiency,Control pests,0.68,/user/user/document/image_304.jpg,2022-01-26 06:02:53,2022-03-08 05:18:39
+Phytophthora Blight,Viral Infection,Use proper sanitation practices,0.85,/user/user/document/image_795.jpg,2022-06-12 08:17:03,2022-05-16 01:07:38
+Bacterial Spot,Pests,Adjust watering schedule,0.67,/user/user/document/image_391.jpg,2023-04-21 11:29:24,2023-05-26 19:57:25
+Bacterial Spot,Fungal Infection,Use resistant varieties,0.76,/user/user/document/image_483.jpg,2023-06-10 17:06:18,2023-07-23 15:14:30
+Scab,Poor Drainage,Use proper sanitation practices,0.56,/user/user/document/image_900.jpg,2022-01-03 07:55:57,2022-03-11 19:55:10
+Southern Blight,Fungal Infection,Use resistant varieties,0.7,/user/user/document/image_156.jpg,2022-06-04 19:33:22,2024-04-18 18:21:06
+Crown Gall,Environmental Stress,Control pests,0.69,/user/user/document/image_891.jpg,2024-01-04 05:11:17,2022-08-02 03:02:03
+Eggplant Verticillium Wilt,Nutrient Deficiency,Provide adequate nutrition,0.62,/user/user/document/image_174.jpg,2023-05-14 17:30:05,2022-08-24 20:04:41
+Bacterial Canker,Poor Drainage,Use resistant varieties,0.99,/user/user/document/image_537.jpg,2023-04-07 00:10:24,2022-03-24 12:49:39
+Rhizoctonia Root Rot,Poor Drainage,Apply bactericide,0.6,/user/user/document/image_243.jpg,2023-06-11 03:20:42,2022-12-22 03:49:13
+Bacterial Blight,Pests,Use fungicide,0.83,/user/user/document/image_342.jpg,2022-09-30 17:10:15,2022-04-01 04:50:06
+Citrus Greening,Viral Infection,Adjust watering schedule,0.79,/user/user/document/image_184.jpg,2023-03-08 16:49:53,2022-04-21 22:39:38
+Crown Gall,Bacterial Infection,Remove infected leaves,0.92,/user/user/document/image_307.jpg,2022-06-05 01:40:30,2022-05-24 18:16:09
+Corky Root Rot,Bacterial Infection,Apply neem oil,0.68,/user/user/document/image_969.jpg,2023-11-08 04:40:37,2024-03-11 23:28:19
+Apple Scab,Fungal Infection,Use resistant varieties,0.57,/user/user/document/image_362.jpg,2023-07-06 22:49:57,2023-11-22 06:08:52
+Nematode Damage,Pests,Control pests,0.93,/user/user/document/image_146.jpg,2022-05-21 10:27:13,2024-01-27 13:45:20
+White Rust,Nutrient Deficiency,Control pests,0.74,/user/user/document/image_294.jpg,2022-05-03 19:59:50,2022-02-20 16:18:48
+Squash Mosaic Virus,Poor Drainage,Control pests,0.95,/user/user/document/image_851.jpg,2022-01-06 17:05:25,2023-06-17 17:16:38
+Bacterial Blight,Chemical Damage,Adjust watering schedule,0.61,/user/user/document/image_582.jpg,2023-04-05 00:32:55,2023-07-06 15:09:53
